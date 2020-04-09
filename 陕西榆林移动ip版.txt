@@ -92,7 +92,6 @@ SiTV法治天地 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001124/in
 SiTV游戏风云 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001127/index.m3u8?&virtualDomain=bestv.live_hls.zte.com
 SiTV都市剧场 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001121/index.m3u8?&virtualDomain=bestv.live_hls.zte.com
 SiTV金色频道 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001374/index.m3u8?&virtualDomain=bestv.live_hls.zte.com
-SiTV哈哈炫动 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001092/index.m3u8?&virtualDomain=bestv.live_hls.zte.com
 上海ICS外语 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001091/index.m3u8?&virtualDomain=bestv.live_hls.zte.com
 上海东方影视 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001087/index.m3u8?&virtualDomain=bestv.live_hls.zte.com
 上海新闻综合 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001082/index.m3u8?&virtualDomain=bestv.live_hls.zte.com
@@ -118,3 +117,4 @@ SiTV哈哈炫动 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001092/in
 金鹰卡通 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001152/index.m3u8?&virtualDomain=bestv.live_hls.zte.com
 广东嘉佳卡通 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001148/index.m3u8?&virtualDomain=bestv.live_hls.zte.com
 北京卡酷少儿 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001133/index.m3u8?&virtualDomain=bestv.live_hls.zte.com
+上海哈哈炫动 540,http://111.20.106.16:6610/bestv/2/ch00000090990000001092/index.m3u8?&virtualDomain=bestv.live_hls.zte.com
