@@ -54,8 +54,8 @@ Hot少儿动漫限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL0
 Hot精彩影视限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
 Hot精品剧场限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002014/index.m3u8
 Hot全纪实限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
-SiTV动漫秀场 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
-SiTV极速汽车 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002001/index.m3u8
+SiTV动漫秀场限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
+SiTV极速汽车限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002001/index.m3u8
 SiTV欢笑剧场限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002004/index.m3u8
 SiTV法治天地限免 6M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
 SiTV金色频道限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
