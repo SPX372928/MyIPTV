@@ -26,7 +26,7 @@ CCTV17 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m
 安徽卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
 山东卫视 7M1080+720+360,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
 广东卫视 7M1080+720+360,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
-江苏卫视 7M1080+720+360,,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
+江苏卫视 7M1080+720+360,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
 河北卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
 浙江卫视 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
 深圳卫视 7M1080+720+360,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
