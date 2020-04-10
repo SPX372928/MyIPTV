@@ -102,7 +102,7 @@ CIBN纪录片 480,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229831/i
 CIBN艺术院线 480,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229822/index.m3u8
 移动5G直播 5M1080,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229638/index.m3u8
 全景监控 1080,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229984/index.m3u8
-未知电台 128http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229848/index.m3u8
+上下3D测试10s 8M1080,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229848/index.m3u8
 学而思网校1 576,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228203/index.m3u8
 学而思网校2 576,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228264/index.m3u8
 房产电视 576,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229343/index.m3u8
