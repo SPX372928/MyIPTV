@@ -19,7 +19,6 @@ CCTV12 8M1080,http://120.221.5.166:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL
 海看少儿 8M1080,http://120.221.5.166:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00000402/index.m3u8
 海看热播 8M1080,http://120.221.5.166:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00000405/index.m3u8
 海看电竞 7M1080,http://120.221.5.166:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00000408/index.m3u8
-湖南金鹰纪实 8M1080,http://120.221.5.166:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00000334/index.m3u8
 CCTV2 576,http://120.221.5.166:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00000002/index.m3u8
 CCTV3 576,http://120.221.5.166:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00000003/index.m3u8
 CCTV4 576,http://120.221.5.166:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00000004/index.m3u8
