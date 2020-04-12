@@ -43,7 +43,7 @@ CCTV17 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m
 海看电竞 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000408/index.m3u8
 海看健康 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000401/index.m3u8
 海看教育 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000204/index.m3u8
-海看演艺 576,http://ucdn.sd.chin^amobile.com:8089/00/SNM/CHANNEL00000400/index.m3u8
+海看演艺 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000400/index.m3u8
 Hot亚洲影院限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
 Hot探索记录限免 5M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002006/index.m3u8
 Hot漫游世界限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002007/index.m3u8
