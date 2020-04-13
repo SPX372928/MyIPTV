@@ -55,6 +55,7 @@ CCTV9,http://iptv.pdsu.edu.cn/hls/cctv9.m3u8
 CCTV10,http://iptv.pdsu.edu.cn/hls/cctv10.m3u8
 CCTV11,http://iptv.pdsu.edu.cn/hls/cctv11.m3u8
 CCTV12,http://iptv.pdsu.edu.cn/hls/cctv12.m3u8
+CCTV13,http://iptv.pdsu.edu.cn/hls/cctv13.m3u8
 CCTV14,http://iptv.pdsu.edu.cn/hls/cctv14.m3u8
 CCTV15,http://iptv.pdsu.edu.cn/hls/cctv15.m3u8
 CGTN,http://iptv.pdsu.edu.cn/hls/cctv16.m3u8
