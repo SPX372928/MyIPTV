@@ -251,3 +251,4 @@ NewTV精品大剧 720,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3
 湖南金鹰卡通 576,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/01.m3u8?fmt=ts2hls
 湖南金鹰纪实 576,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229328/01.m3u8?fmt=ts2hls
 车迷频道 576,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229410/01.m3u8?fmt=ts2hls
+
