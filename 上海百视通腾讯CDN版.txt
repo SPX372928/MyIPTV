@@ -52,7 +52,7 @@ CCTV15 540,http://liveplay-kk.rtxapp.com/live/program/live/cctvyy/1300000/mnf.m3
 贵州卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/gzws/1300000/mnf.m3u8
 重庆卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/cqws/1300000/mnf.m3u8
 湖南金鹰卡通 540,http://liveplay-kk.rtxapp.com/live/program/live/jykt/1300000/mnf.m3u8
-江苏嘉佳卡通 540,http://liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.m3u8
+广东嘉佳卡通 540,http://liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.m3u8
 SiTV动漫秀场 1080,http://liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
 SiTV游戏风云 1080,http://liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
 SiTV劲爆体育 1080,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
