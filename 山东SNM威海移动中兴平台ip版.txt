@@ -53,8 +53,8 @@ Hot欧美影院限免 8M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte
 Hot风尚音乐限免 8M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002015/index.m3u8
 Hot少儿动漫限免 8M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002017/index.m3u8
 Hot精彩影视限免 8M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002012/index.m3u8
-Hot精品剧场限免 8M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002014/index.m3u8
-Hot全纪实限免 8M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002016/index.m3u8
+SiTV精品剧场限免 8M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002014/index.m3u8
+SiTV全纪实限免 8M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002016/index.m3u8
 SiTV动漫秀场 8M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002000/index.m3u8
 SiTV极速汽车 8M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002001/index.m3u8
 SiTV欢笑剧场限免 8M1080,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002004/index.m3u8
@@ -257,7 +257,7 @@ Hot风尚音乐限免 8M1080,http://223.99.186.132:6410/shandong_cabletv.live.zt
 Hot少儿动漫限免 8M1080,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002017/index.m3u8
 Hot精彩影视限免 8M1080,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002012/index.m3u8
 Hot精品剧场限免 8M1080,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002014/index.m3u8
-Hot全纪实限免 8M1080,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002016/index.m3u8
+SiTV全纪实限免 8M1080,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002016/index.m3u8
 SiTV动漫秀场 8M1080,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002000/index.m3u8
 SiTV极速汽车 8M1080,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002001/index.m3u8
 SiTV欢笑剧场限免 8M1080,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00002004/index.m3u8
