@@ -68,7 +68,7 @@ iHot爱都市 7.5M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV
 iHot爱青春 7.5M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
 Hot亚洲影院 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
 Hot少儿动漫 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
-Hot探索记录 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/01.m3u8?fmt=ts2hls
+Hot探索纪录 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/01.m3u8?fmt=ts2hls
 Hot欧美影院 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
 Hot漫游世界 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls
 Hot炫动3D 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/01.m3u8?fmt=ts2hls
