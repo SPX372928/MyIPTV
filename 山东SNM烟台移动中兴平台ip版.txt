@@ -39,8 +39,8 @@ CCTV17 8M1080,http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.25
 海看大片 7M1080,http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000407/index.m3u8
 海看少儿 8M1080,http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000402/index.m3u8
 海看热播 8M1080,http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000405/index.m3u8
-海看爱宠 8M1080,http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000202/index.m3u8
 海看电竞 7M1080,http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000408/index.m3u8
+海看爱宠 8M576,http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000202/index.m3u8
 海看健康 576,http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000401/index.m3u8
 海看教育 576,http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000204/index.m3u8
 海看演艺 576,http://39.134.152.138:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000400/index.m3u8
