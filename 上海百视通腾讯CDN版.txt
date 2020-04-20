@@ -21,6 +21,7 @@ CCTV15 540,http://liveplay-kk.rtxapp.com/live/program/live/cctvyy/1300000/mnf.m3
 上海纪实人文 1080,http://liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
 上海哈哈炫动 1080,http://liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
 上海都市 1080,http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海教育 540,http://liveplay-kk.rtxapp.com/live/program/live/setv/1300000/mnf.m3u8
 东南卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
 东方卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
 北京卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
