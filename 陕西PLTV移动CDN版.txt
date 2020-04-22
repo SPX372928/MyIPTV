@@ -295,6 +295,7 @@ NewTV家庭剧场 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225
 铜川1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226379/index.m3u8
 铜川2 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226380/index.m3u8
 西安1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
+西安教育 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 榆林1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226377/index.m3u8
 宝鸡1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226381/index.m3u8
 宝鸡2 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226382/index.m3u8
@@ -303,4 +304,3 @@ NewTV家庭剧场 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225
 渭南 4M576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226376/index.m3u8
 安塞 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226388/index.m3u8
 LBR 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225997/index.m3u8
-ETV 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
