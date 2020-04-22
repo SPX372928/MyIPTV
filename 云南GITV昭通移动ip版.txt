@@ -82,10 +82,10 @@ CCTV14 576,http://39.130.206.213:6410/gitv_live/G_CCTV-14/G_CCTV-14.m3u8
 新疆兵团卫视 576,http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
 山东教育卫视 576,http://39.130.206.213:6410/gitv_live/G_SDETV/G_SDETV.m3u8
 湖南金鹰卡通 576,http://39.130.206.213:6410/gitv_live/G_JINYING/G_JINYING.m3u8 
-江苏嘉佳卡通 576,http://39.130.206.213:6410/gitv_live/G_JIAJIA/G_JIAJIA.m3u8 
+广东嘉佳卡通 576,http://39.130.206.213:6410/gitv_live/G_JIAJIA/G_JIAJIA.m3u8 
 上海哈哈炫动 576,http://39.130.206.213:6410/gitv_live/G_XUANDONG/G_XUANDONG.m3u8 
 北京卡酷少儿 576,http://39.130.206.213:6410/gitv_live/G_KAKU/G_KAKU.m3u8 
-优漫卡通 576,http://39.130.206.213:6410/gitv_live/G_YOUMAN/G_YOUMAN.m3u8  
+江苏卡通 576,http://39.130.206.213:6410/gitv_live/G_YOUMAN/G_YOUMAN.m3u8  
 云南国际 576,http://39.130.206.213:6410/gitv_live/G_YNTVGJ/G_YNTVGJ.m3u8 
 七彩公交 576,http://39.130.206.213:6410/gitv_live/G_QICAIGONGJIAO/G_QICAIGONGJIAO.m3u8 
 云南卫视 576,http://39.130.206.213:6410/gitv_live/G_YUNNAN/G_YUNNAN.m3u8 
