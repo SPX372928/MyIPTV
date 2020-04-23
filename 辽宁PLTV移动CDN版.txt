@@ -82,7 +82,7 @@ CCTV17 3M1080,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226869/in
 黑龙江卫视 7.5M1080,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226749/index.m3u8
 NNM卡通剧场 7.5M1080,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226717/index.m3u8
 NNM大众影视 7.5M1080,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226752/index.m3u8
-NNM家庭影院 7.5M1080,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226723/index.m3u8
+NNM家庭剧场 7.5M1080,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226740/index.m3u8NNM家庭影院 7.5M1080,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226723/index.m3u8
 北京冬奥纪实 7.5M1080,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226730/index.m3u8
 金鹰纪实 7.5M1080,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226714/index.m3u8
 咪咕视频 2M1080,http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226840/index.m3u8
