@@ -1,3 +1,5 @@
+说它奇葩是因为中间用的湖北移动CDN
+
 VR直播珠峰5300米 Max30M2160,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226674/1.m3u8
 CCTV1 3M1080,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226128/1.m3u8
 CCTV1 3M1080,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8
