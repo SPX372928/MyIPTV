@@ -1,0 +1,9 @@
+四川卫视 720,http://scgctvshow.sctv.com/scgc/sctv1deu5453w/index.m3u8
+四川文化旅游 720,http://scgctvshow.sctv.com/hdlive/sctv2/index.m3u8
+四川经济 720,http://scgctvshow.sctv.com/hdlive/sctv3/index.m3u8
+四川新闻 720,http://scgctvshow.sctv.com/hdlive/sctv4/index.m3u8
+四川影视文艺 720,http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8
+四川星空购物 720,http://scgctvshow.sctv.com/hdlive/sctv6/index.m3u8
+四川妇女儿童 720,http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+四川公共农村 720,http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8
+四川峨眉电影 720,http://scgctvshow.sctv.com/hdlive/emei/index.m3u8
