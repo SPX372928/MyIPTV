@@ -2,7 +2,7 @@ CCTV1 1080,http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/2500/index.m3u8?&e
 CCTV1 1080HEVC,http://live.hcs.cmvideo.cn:8088/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=
 CCTV2 1080,http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
 CCTV2 1080HEVC,http://live.hcs.cmvideo.cn:8088/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=
-CCTV3 720,http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&&encrypt=
+CCTV3 720,http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
 CCTV4 1080,http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=
 CCTV4 1080HEVC,http://live.hcs.cmvideo.cn:8088/migu/kailu/cctv4hd265/57/20191230/index.m3u8?&encrypt=
 CCTV4欧洲 1080,http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
@@ -22,7 +22,7 @@ CCTV12 1080,http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv12hd/57/inde
 CCTV13 720,http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?&encrypt=
 CCTV14 1080HEVC,http://live.hcs.cmvideo.cn:8088/migu/kailu/cctv14hd265/55/20200407/index.m3u8?&encrypt=
 CCTV14 720,http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?&encrypt=
-CCTV15 1080,http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv15hd/57/index.m3u8?&&encrypt=
+CCTV15 1080,http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
 CCTV17 1080,http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=
 中国教育1 1080,http://live.hcs.cmvideo.cn:8088/wd_r3/cctv/cetv1hd/3000/index.m3u8?&encrypt=
 中国教育2 480,http://live.hcs.cmvideo.cn:8088/wd_r3/cnr/cetv2/600/index.m3u8?&encrypt=
@@ -167,7 +167,7 @@ SNH48剧场公演 720,http://live.hcs.cmvideo.cn:8088/wd-virtuallive5100002043-7
 张国荣影院 480,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354727/75/index.m3u8?&encrypt=
 成龙作品集 480,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/75/index.m3u8?&encrypt=
 刘亦菲展播 480,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010221/75/index.m3u8?&encrypt=
-刘德华影院 480,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354855/75/index.m3u8?&&encrypt=
+刘德华影院 480,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354855/75/index.m3u8?&encrypt=
 刘涛作品集 480,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100178547/75/index.m3u8?&encrypt=
 周星驰影院 480,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100144102/75/index.m3u8?&encrypt=
 古力娜扎展播 480,http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100170828/75/index.m3u8?&encrypt=
