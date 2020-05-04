@@ -1,0 +1,21 @@
+CCTV13,http://stream4.jlntv.cn/cctv13/sd/live.m3u8
+吉林卫视 2M1080,http://stream4.jlntv.cn/test2/sd/live.m3u8
+吉林卫视,http://stream1.jlntv.cn/jlws/sd/live.m3u8
+吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8
+吉林生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8
+吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
+吉林影视,http://stream4.jlntv.cn/test4/sd/live.m3u8
+吉林乡村,http://stream1.jlntv.cn/xcpd/sd/live.m3u8
+吉林公共新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8
+吉林7,http://stream1.jlntv.cn/fzpd/sd/live.m3u8
+吉林东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
+吉林家有购物,http://stream1.jlntv.cn/jygw/sd/live.m3u8
+长春电视台,http://stream2.jlntv.cn/jlcc/sd/live.m3u8
+吉林电视台,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
+四平电视台,http://stream2.jlntv.cn/sptv/sd/live.m3u8
+辽源电视台,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+通化电视台,http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+白山电视台,http://stream2.jlntv.cn/baishan1/sd/live.m3u8
+白城电视台,http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+延边电视台,http://stream2.jlntv.cn/jlyb/sd/live.m3u8
+长白山电视台,http://stream2.jlntv.cn/jlyb/sd/live.m3u8
