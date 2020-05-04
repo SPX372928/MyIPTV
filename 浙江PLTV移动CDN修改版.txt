@@ -1,3 +1,4 @@
+有的链接是42320001.smil/index.m3u8这种格式，发现不管把41310001.smil改成什么，就算把它删掉，也都能正常播放
 CCTV4K 35M2160,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 百视通4K 22M2160,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
 CCTV1 4M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
@@ -5,10 +6,10 @@ CCTV1 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/
 CCTV1 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229818/index.m3u8
 CCTV4 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/01.m3u8?fmt=ts2hls
 CCTV5 2.5M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228645/index.m3u8
-CCTV5 3M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229687/01.m3u8?fmt=ts2hls
+CCTV5 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229687/01.m3u8?fmt=ts2hls
 CCTV5 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228965/01.m3u8?fmt=ts2hls
 CCTV5 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229791/01.m3u8?fmt=ts2hls
-CCTV5+ 3M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/01.m3u8?fmt=ts2hls
+CCTV5+ 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/01.m3u8?fmt=ts2hls
 CCTV5+ 4M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8
 CCTV9 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228342/01.m3u8?fmt=ts2hls
 CCTV12 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228312/01.m3u8?fmt=ts2hls
@@ -45,6 +46,7 @@ iHot爱体育 7.5M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV
 iHot爱军武 7.5M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
 iHot爱动漫 7.5M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
 iHot爱历史 7.5M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+iHot爱奇谈 7.5M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
 iHot爱奇谈 7.5M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
 iHot爱娱乐 7.5M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
 iHot爱家庭 7.5M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
@@ -105,8 +107,7 @@ NewTV精品纪录 4M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PL
 NewTV精品纪录 4M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229707/index.m3u8
 NewTV金牌综艺 4M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229002/index.m3u8
 NewTV金牌综艺 4M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229704/index.m3u8
-天目直播 2M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229656/01.m3u8?fmt=ts2hls
-太子湾樱花盛筵 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229636/01.m3u8?fmt=ts2hls
+直播 2M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229656/01.m3u8?fmt=ts2hls
 学而思网校1 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228953/01.m3u8?fmt=ts2hls
 学而思网校2 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228957/01.m3u8?fmt=ts2hls
 学而思网校3 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228959/01.m3u8?fmt=ts2hls
@@ -115,7 +116,6 @@ NewTV金牌综艺 4M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PL
 学而思网校6 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228966/01.m3u8?fmt=ts2hls
 学而思网校7 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228968/01.m3u8?fmt=ts2hls
 学而思网校8 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229758/01.m3u8?fmt=ts2hls
-未知 1080,http://117.148.187.31/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230332/index.m3u8
 浙江源未知餐厅 4M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229062/index.m3u8
 浙江源未知餐厅 4M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229654/index.m3u8
 百事通体育1 8M1080,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228956/01.m3u8?fmt=ts2hls
@@ -168,6 +168,7 @@ CCTV14 576,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/22
 CCTV14 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/01.m3u8?fmt=ts2hls
 CCTV15 576,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228281/01.m3u8?fmt=ts2hls
 CCTV17 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/01.m3u8?fmt=ts2hls
+中国教育1 576,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228285/01.m3u8?fmt=ts2hls
 CCTV高尔夫·网球 576,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228669/01.m3u8?fmt=ts2hls
 CGTN 576,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228416/01.m3u8?fmt=ts2hls
 CGTN 576,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228545/01.m3u8?fmt=ts2hls
@@ -238,7 +239,6 @@ NewTV精品大剧 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/
 NewTV精品大剧 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229713/index.m3u8
 湖南茶频道 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229404/01.m3u8?fmt=ts2hls
 黑莓动画 720,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229675/index.m3u8
-中国教育1 576,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228285/01.m3u8?fmt=ts2hls
 北广优优宝贝 576,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229380/01.m3u8?fmt=ts2hls
 江苏优漫卡通 576,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228378/01.m3u8?fmt=ts2hls
 北京冬奥纪实 576,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229407/01.m3u8?fmt=ts2hls
