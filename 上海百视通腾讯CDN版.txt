@@ -84,3 +84,4 @@ SiTV东方财经 540,http://liveplay-kk.rtxapp.com/live/program/live/dfcj/130000
 keonline.shanghai.liveplay.qq.com
 liveplay-kk.rtxapp.com
 183.207.255.190
+58.216.102.246
