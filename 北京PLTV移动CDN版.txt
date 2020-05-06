@@ -96,9 +96,9 @@ NewTV超级综艺 8M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/32212
 NewTV金牌综艺 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
 NewTV金牌综艺 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
 NewTV金牌综艺 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8
-未知 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
-未知电影 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8
-未知综艺 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
+NewTV海外剧场 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
+NewTV海外剧场 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8
+NewTV海外剧场 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
 电竞直播 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
 电竞直播 2.5M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
 全景熊猫直播 4M1080,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
