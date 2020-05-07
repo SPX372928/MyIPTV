@@ -7,4 +7,5 @@
 四川妇女儿童 720,http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 四川公共农村 720,http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8
 四川峨眉电影 720,http://scgctvshow.sctv.com/hdlive/emei/index.m3u8
+康巴藏语卫视 720,http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 康巴藏语卫视 720,http://stream.kangbatv.com/test/playlist.m3u8
