@@ -52,7 +52,7 @@ CGTN阿拉伯语 480,http://live.hcs.cmvideo.cn:8513/envivo_v/SD/cctv/alabo/1000
 云南卫视 480,http://live.hcs.cmvideo.cn:8513/envivo_x/2018/SD/yunnan/1000/index.m3u8?&encrypt=
 兵团卫视 480,http://live.hcs.cmvideo.cn:8513/envivo_w/2018/SD/bttv/1000/index.m3u8?&encrypt=
 内蒙古卫视 480,http://live.hcs.cmvideo.cn:8513/envivo_w/2018/SD/neimeng/1000/index.m3u8?&encrypt=
-北京卫视 480,http://live.hcs.cmvideo.cn:8513/ws_w/2018/bjws/bjws711/1000/index.m3u8?&encrypt=
+北京卫视 720,http://live.hcs.cmvideo.cn:8513/ws_w/2018/bjws/bjws2000/2000/index.m3u8?&encrypt=
 南方卫视 480,http://live.hcs.cmvideo.cn:8513/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?&encrypt=
 吉林卫视 480,http://live.hcs.cmvideo.cn:8513/envivo_v/2018/SD/jilin/1000/index.m3u8?&encrypt=
 四川卫视 480,http://live.hcs.cmvideo.cn:8513/envivo_v/2018/SD/sichuanTV/1000/index.m3u8?&encrypt=
@@ -61,7 +61,7 @@ CGTN阿拉伯语 480,http://live.hcs.cmvideo.cn:8513/envivo_v/SD/cctv/alabo/1000
 安徽卫视 720,http://live.hcs.cmvideo.cn:8513/wd_r2/2018/ocn/anhuiwshd/2000/index.m3u8?&encrypt=
 山东卫视 720,http://live.hcs.cmvideo.cn:8513/wd-shandonghd-1200/index.m3u8?&encrypt=
 山西卫视 480,http://live.hcs.cmvideo.cn:8513/envivo_w/2018/SD/shanxi/1000/index.m3u8?&encrypt=
-广东卫视 480,http://live.hcs.cmvideo.cn:8513/ws_w/2018/gdws/gdws711/1000/index.m3u8?&encrypt=
+广东卫视 720,http://live.hcs.cmvideo.cn:8513/ws_w/2018/gdws/gdws2000/2000/index.m3u8?&encrypt=
 广西卫视 480,http://live.hcs.cmvideo.cn:8513/wd-guangxiwssd-600/index.m3u8?&encrypt=
 新疆卫视 480,http://live.hcs.cmvideo.cn:8513/wd-xinjiangwssd-600/index.m3u8?&encrypt=
 江苏卫视 1080,http://live.hcs.cmvideo.cn:8513/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=
@@ -181,6 +181,8 @@ SNH48剧场公演 720,http://live.hcs.cmvideo.cn:8513/wd-virtuallive5100002043-7
 小猪佩奇 720,http://live.hcs.cmvideo.cn:8513/wd_r2/virtuallive/5102010216/150/index.m3u8?&encrypt=
 爱情公寓 720,http://live.hcs.cmvideo.cn:8513/wd_r2/virtuallive/5100180868/150/index.m3u8?&encrypt=
 神探狄仁杰 720,http://live.hcs.cmvideo.cn:8513/wd_r3/virtuallive/5100179816/150/index.m3u8?&encrypt=
+仙剑奇侠传 270,http://live.hcs.cmvideo.cn:8513/wd_r3/virtuallive/5102354727/150/index.m3u8?&encrypt=
+还珠格格 720,http://live.hcs.cmvideo.cn:8513/wd_r3/virtuallive/5102354627/150/index.m3u8?&encrypt=
 假期剧场 720,http://live.hcs.cmvideo.cn:8513/wd_r1/virtuallive/5101000747/150/index.m3u8?&encrypt=
 僵尸剧场 720,http://live.hcs.cmvideo.cn:8513/wd_r2/virtuallive/5100192783/150/index.m3u8?&encrypt=
 军旅剧场 720,http://live.hcs.cmvideo.cn:8513/wd_r2/virtuallive/5100180303/150/index.m3u8?&encrypt= 
@@ -201,7 +203,7 @@ SNH48剧场公演 720,http://live.hcs.cmvideo.cn:8513/wd-virtuallive5100002043-7
 梦幻童话 720,http://live.hcs.cmvideo.cn:8513/migu/gunbo/5102439963/51/20190827/index.m3u8?&encrypt=
 武侠剧场 720,http://live.hcs.cmvideo.cn:8513/wd_r1/virtuallive/5101000755/150/index.m3u8?&encrypt=
 每日科幻电影 720,http://live.hcs.cmvideo.cn:8513/wd_r3/virtuallive/5100172731/150/index.m3u8?&encrypt=
-深夜失眠剧场 720,http://live.hcs.cmvideo.cn:8513/wd_r2/virtuallive/5100181674/150/index.m3u8?&encrypt= 
+深夜尤物剧场 720,http://live.hcs.cmvideo.cn:8513/wd_r2/virtuallive/5100181674/150/index.m3u8?&encrypt=
 热剧联播 480,http://live.hcs.cmvideo.cn:8513/wd_r3/cctv/rejulianbo/600/index.m3u8?&encrypt=  
 益智学堂 480,http://live.hcs.cmvideo.cn:8513/migu/gunbo/5102440005/51/20190827/index.m3u8?&encrypt=
 盗墓方法论 720,http://live.hcs.cmvideo.cn:8513/wd_r3/virtuallive/5100179159/150/index.m3u8?&encrypt=
@@ -221,3 +223,6 @@ SNH48剧场公演 720,http://live.hcs.cmvideo.cn:8513/wd-virtuallive5100002043-7
 高清大片 480,http://live.hcs.cmvideo.cn:8513/wd_r3/cctv/gaoqingdapian/600/index.m3u8?&encrypt=  
 黄金剧场 720,http://live.hcs.cmvideo.cn:8513/wd_r3/virtuallive/5100172024/150/index.m3u8?&encrypt=
 好享购物 480,http://live.hcs.cmvideo.cn:8513/wd_r2/jstv/hxgw/600/index.m3u8?&encrypt=
+直播北极阁 720,http://live.hcs.cmvideo.cn:8513/wd_r3/cnr/beijige/2000/index.m3u8?&encrypt=
+直播钱塘江 720,http://live.hcs.cmvideo.cn:8513/wd_r3/cnr/qiantangjiang/2000/index.m3u8?&encrypt=
+直播嵊泗 720,http://live.hcs.cmvideo.cn:8513/wd_r3/cnr/shengsi/2000/index.m3u8?&encrypt=
