@@ -47,6 +47,7 @@ CCTV17 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Con
 湖北卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=4
 湖南卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=4
 湖南卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=4
+海南卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=4
 重庆卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=4
 黑龙江卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=4
 黑龙江卫视 8M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=4
