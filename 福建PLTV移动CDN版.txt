@@ -171,6 +171,7 @@ CGTN纪录 3.5M576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/in
 贵州卫视 576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225838/index.m3u8
 陕西卫视 3.5M576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225850/index.m3u8
 青海卫视 3.5M576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225841/index.m3u8
+三沙卫视 576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
 山东教育卫视 3.5M576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225873/index.m3u8
 SiTV法治天地 576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226143/index.m3u8
 SiTV游戏风云 576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226142/index.m3u8
