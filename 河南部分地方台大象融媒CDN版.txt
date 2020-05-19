@@ -1,4 +1,5 @@
 测试 1050,http://live.dxhmt.cn:9081/tv/10102-1.m3u8
+CCTV1 1080,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 中牟 1080,http://live.dxhmt.cn:9081/tv/10122-1.m3u8
 荥阳 1080,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
 新郑 1080,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
@@ -15,7 +16,7 @@
 舞钢 1080,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
 汝州 1080,http://live.dxhmt.cn:9081/tv/10482-1.m3u8
 汤阴 1080,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
-HTV 1080,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
+滑县 1080,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
 内黄 1080,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
 林州 1080,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
 浚县 1080,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
@@ -27,7 +28,7 @@ HTV 1080,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
 修武 576,http://live.dxhmt.cn:9081/tv/10821-1.m3u8
 武陟 1080,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
 温县 1080,http://live.dxhmt.cn:9081/tv/10825-1.m3u8
-未知新闻综合 1080,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
+泌阳 1080,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
 孟州 1080,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 清丰 1080,http://live.dxhmt.cn:9081/tv/10922-1.m3u8
 未知新闻 1080,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
@@ -43,16 +44,15 @@ HTV 1080,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
 未知 1080,http://live.dxhmt.cn:9081/tv/11327-1.m3u8
 唐河 1080,http://live.dxhmt.cn:9081/tv/11328-1.m3u8
 未知新闻综合 1080,http://live.dxhmt.cn:9081/tv/11330-1.m3u8
-未知新闻 1080,http://live.dxhmt.cn:9081/tv/11381-1.m3u8
-XY新闻 1080,http://live.dxhmt.cn:9081/tv/11426-1.m3u8
+邓州 1080,http://live.dxhmt.cn:9081/tv/11381-1.m3u8
+夏邑 1080,http://live.dxhmt.cn:9081/tv/11426-1.m3u8
 永城 1080,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 罗山 1080,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 光山 1080,http://live.dxhmt.cn:9081/tv/11522-1.m3u8
 新县 1080,http://live.dxhmt.cn:9081/tv/11523-1.m3u8
 潢川 1080,http://live.dxhmt.cn:9081/tv/11526-1.m3u8
-CCTV1 1080,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 西华 1080,http://live.dxhmt.cn:9081/tv/11622-1.m3u8
-未知新闻综合 1080,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
+沈丘 1080,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
 郸城 1080,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
 项城 1080,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 西平 1080,http://live.dxhmt.cn:9081/tv/11721-1.m3u8
