@@ -119,7 +119,7 @@ CGTN 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
 陕西卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000029/index.m3u8
 青海卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000042/index.m3u8
 黑龙江卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000027/index.m3u8
-贺岁 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000604/index.m3u8
+IPTV经典电影 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000604/index.m3u8
 IPTV少儿动画 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000605/index.m3u8
 IPTV相声小品 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000606/index.m3u8
 IPTV热播剧场 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000608/index.m3u8
@@ -166,6 +166,7 @@ IPTV法制 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.
 郓城新闻 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
 巨野新闻 6M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
 兖州新闻 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
+齐河新闻 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
 临沂公共 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000256/index.m3u8
 临沂农科 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000121/index.m3u8
 临淄1 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001021/index.m3u8
@@ -173,7 +174,7 @@ IPTV法制 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.
 兰陵综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001032/index.m3u8
 商河综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8
 张店 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001012/index.m3u8
-未知BSTV1 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001013/index.m3u8
+博山新闻 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001013/index.m3u8
 桓台1 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001020/index.m3u8
 沂源新闻 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
 济南商务 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000066/index.m3u8
@@ -204,3 +205,8 @@ IPTV法制 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.
 高青综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001023/index.m3u8
 平阴综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001050/index.m3u8
 曲阜新闻综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001052/index.m3u8
+冠县综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8
+山东居家购物 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
+巨鲨环球精选 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000706/index.m3u8
+江苏好享购物 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000707/index.m3u8
+北京家有购物 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000708/index.m3u8
