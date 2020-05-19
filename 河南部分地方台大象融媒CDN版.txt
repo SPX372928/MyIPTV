@@ -43,7 +43,7 @@ CCTV1 1080,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 镇平 1080,http://live.dxhmt.cn:9081/tv/11324-1.m3u8
 未知 1080,http://live.dxhmt.cn:9081/tv/11327-1.m3u8
 唐河 1080,http://live.dxhmt.cn:9081/tv/11328-1.m3u8
-未知新闻综合 1080,http://live.dxhmt.cn:9081/tv/11330-1.m3u8
+桐柏 1080,http://live.dxhmt.cn:9081/tv/11330-1.m3u8
 邓州 1080,http://live.dxhmt.cn:9081/tv/11381-1.m3u8
 夏邑 1080,http://live.dxhmt.cn:9081/tv/11426-1.m3u8
 永城 1080,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
