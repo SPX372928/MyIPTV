@@ -1,3 +1,4 @@
+纯享4K 20M2160,http://itv.ahau.edu.cn/PLTV/88888888/224/3221226825/1.m3u8
 BTV冬奥纪实,http://itv.ahau.edu.cn/hls/btv11hd.m3u8
 BTV冬奥纪实,http://itv.ahau.edu.cn/hls/hls162.m3u8
 BTV冬奥纪实,http://itv.ahau.edu.cn/hls/hls69a25.m3u8
