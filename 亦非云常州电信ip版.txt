@@ -22,8 +22,8 @@ CBN每日影院 720,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/chann
 CBN风尚生活 576,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43093/1300.m3u8
 CBN风尚生活 720+576,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43093/index.m3u8
 CBN风尚生活 720,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43093/2300.m3u8
-CCTV4K 360,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51021/index.m3u8
-CCTV4K 360,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51021/2300.m3u8
+CCTV4K 720,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51021/index.m3u8
+CCTV4K 720,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51021/2300.m3u8
 CCTV1 2R720,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/index.m3u8
 CCTV1 720,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/2300.m3u8
 CCTV1 720,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel1/1300.m3u8
