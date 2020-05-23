@@ -31,15 +31,16 @@ CCTV1 1080,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 泌阳 1080,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
 孟州 1080,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 清丰 1080,http://live.dxhmt.cn:9081/tv/10922-1.m3u8
-未知新闻 1080,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
+建安 1080,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 鄢陵 1080,http://live.dxhmt.cn:9081/tv/11024-1.m3u8
 禹州 1080,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 舞阳 1080,http://live.dxhmt.cn:9081/tv/11121-1.m3u8
-黑屏 1080,http://live.dxhmt.cn:9081/tv/11122-1.m3u8
+临颍 1080,http://live.dxhmt.cn:9081/tv/11122-1.m3u8
 渑池 1080,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
 义马 1080,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
 灵宝 1080,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 未知 1080,http://live.dxhmt.cn:9081/tv/11322-1.m3u8
+西峡 1080,http://live.dxhmt.cn:9081/tv/11323-1.m3u8
 镇平 1080,http://live.dxhmt.cn:9081/tv/11324-1.m3u8
 未知 1080,http://live.dxhmt.cn:9081/tv/11327-1.m3u8
 唐河 1080,http://live.dxhmt.cn:9081/tv/11328-1.m3u8
@@ -59,6 +60,5 @@ CCTV1 1080,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 上蔡 1080,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
 平舆 1080,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
 确山 1080,http://live.dxhmt.cn:9081/tv/11725-1.m3u8
-泌阳 1080,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
 济源 1080,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 仅音频 1080,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
