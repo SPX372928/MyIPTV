@@ -1,3 +1,9 @@
 凤凰中文 4M1080,http://tv.sason.xyz/proxy/fh.php?id=zw
+凤凰中文 4M1080,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zwhd
+凤凰中文 720,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zw
 凤凰资讯 4M1080,http://tv.sason.xyz/proxy/fh.php?id=zx
+凤凰资讯 4M1080,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zxhd
+凤凰资讯 720,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zx
 凤凰香港 4M1080,http://tv.sason.xyz/proxy/fh.php?id=hk
+凤凰香港 4M1080,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hkhd
+凤凰香港 720,http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hk
