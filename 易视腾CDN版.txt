@@ -138,7 +138,6 @@ CGTN 4M576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Conten
 甘肃卫视 4M576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=4
 贵州卫视 4M576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=4
 贵州卫视 576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5468064193211864646&livemode=1&stbId=4
-辽宁卫视 4M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=4
 辽宁卫视 720,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5393821316758187099&livemode=1&stbId=4
 辽宁卫视 576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7638375013635582245&livemode=1&stbId=4
 重庆卫视 540,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7530473587484726181&livemode=1&stbId=4
