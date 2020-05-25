@@ -52,8 +52,8 @@ iHot爱解密 7M1080,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualD
 iHot爱都市 7M1080,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHot爱院线 7M1080,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 浙江好易购 7M1080,http://101.71.255.229:6610/zjhs/2/10122/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-Hot亚洲影院 720 720,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-Hot少儿动漫 720 720,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+Hot亚洲影院 720,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+Hot少儿动漫 720,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 Hot欧美影院 720,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 电竞广告轮播 720,http://101.71.255.229:6610/zjhs/2/10123/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 信号测试 720,http://101.71.255.229:6610/zjhs/2/10083/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
