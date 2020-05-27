@@ -2,6 +2,7 @@
 凤凰中文 720,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
 凤凰资讯 720,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 CCTV1 4M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
+CCTV1 2.5M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
 CCTV1 720,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225812/index.m3u8
 CCTV1 720,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226715/index.m3u8
 CCTV1 720,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226715/index.m3u8
@@ -55,6 +56,7 @@ CCTV17 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m
 江苏卫视 4M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225847/index.m3u8
 江苏卫视 7M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226869/index.m3u8
 江苏卫视 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225930/index.m3u8
+江西卫视 7M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227022/index.m3u8
 江西卫视 4M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225834/index.m3u8
 江西卫视 4M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225868/index.m3u8
 浙江卫视 4M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225825/index.m3u8
@@ -75,6 +77,7 @@ CCTV17 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m
 重庆卫视 4M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/index.m3u8
 黑龙江卫视 3.5M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225862/index.m3u8
 黑龙江卫视 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/index.m3u8
+四川卫视 7M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8
 厦门卫视 3.5M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
 厦门1 3.5M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/index.m3u8
 厦门2 3.5M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/index.m3u8
@@ -121,6 +124,7 @@ SiTV游戏风云 7M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/32212269
 上海纪实人文 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
 湖南金鹰纪实 7M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
 北京冬奥纪实 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
+湖南金鹰卡通 7M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 湖南快乐垂钓 4M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226940/index.m3u8
 湖南快乐购 7M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226855/index.m3u8
 北京家有购物 720,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225876/index.m3u8
@@ -140,6 +144,7 @@ SiTV游戏风云 7M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/32212269
 影视6 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 影视7 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
 中国教育1 576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225869/index.m3u8
+中国教育4 4M576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227050/index.m3u8
 CGTN 3.5M576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
 CGTN纪录 3.5M576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/index.m3u8
 东南卫视 576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225833/index.m3u8
