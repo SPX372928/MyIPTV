@@ -226,9 +226,11 @@ SNH48剧场公演 720,http://live.hcs.cmvideo.cn:8513/wd-virtuallive5100002043-7
 直播北极阁 720,http://live.hcs.cmvideo.cn:8513/wd_r3/cnr/beijige/2000/index.m3u8?&encrypt=
 直播钱塘江 720,http://live.hcs.cmvideo.cn:8513/wd_r3/cnr/qiantangjiang/2000/index.m3u8?&encrypt=
 直播嵊泗 720,http://live.hcs.cmvideo.cn:8513/wd_r3/cnr/shengsi/2000/index.m3u8?&encrypt=
-直播北海道 720,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura08/51/index.m3u8?&encrypt=
-直播无锡樱花 720,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura01/51/index.m3u8?&encrypt=
-直播荆门樱花 720,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura09/51/index.m3u8?&encrypt=
-直播无锡樱花谷 720,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura04/51/index.m3u8?&encrypt=
-直播无锡梁溪河 720,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura03/51/index.m3u8?&encrypt=
-直播江阴兴国公园 720,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura05/51/index.m3u8?&encrypt=
+直播鼋头渚樱花 1080,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura01/57/index.m3u8?&encrypt=
+直播灵山梵宫 1080,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura02/57/index.m3u8?&encrypt=
+直播梁溪河2 1080,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura03/57/index.m3u8?&encrypt=
+直播鹿鼎山樱花谷 1080,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura04/57/index.m3u8?&encrypt=
+直播江阴兴国公园 1080,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura05/57/index.m3u8?&encrypt=
+直播漳平永福樱花茶园 1080,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura06/57/index.m3u8?&encrypt=
+直播北海道 1080,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura08/57/index.m3u8?&encrypt=
+直播荆门樱花部落 1080,http://live.hcs.cmvideo.cn:8513/migu/kailu/20200311/sakura09/57/index.m3u8?&encrypt=
