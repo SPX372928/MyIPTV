@@ -57,7 +57,7 @@ CGTN 4M576,http://39.134.230.196:9090/39.134.230.23/iptv.cdn.ha.chinamobile.com/
 河南国际 576,http://39.134.230.196:9090/39.134.230.23/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226106/index.m3u8
 河南新农村 576,http://39.134.230.196:9090/39.134.230.23/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221225991/index.m3u8
 河南新闻 576,http://39.134.230.196:9090/39.134.230.23/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221225945/index.m3u8
-河南梨园 720,http://39.134.230.196:9090/39.134.230.23/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221225988/index.m3u8
+河南梨园省内版 720,http://39.134.230.196:9090/39.134.230.23/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221225988/index.m3u8
 河南欢腾购物 576,http://39.134.230.196:9090/39.134.230.23/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
 河南法治 576,http://39.134.230.196:9090/39.134.230.23/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221225943/index.m3u8
 河南移动戏曲 720,http://39.134.230.196:9090/39.134.230.23/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226003/index.m3u8
