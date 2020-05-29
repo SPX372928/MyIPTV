@@ -72,8 +72,8 @@ CCTV15 576,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=ha
 项城 576,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=116
 驻马店新闻综合 576,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=198
 鹿邑 576,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=113
-未知新闻 576,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=126
-未知综合新闻 576,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=106
+栾川新闻 576,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=126
+嵩县综合新闻 576,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=106
 无台标 576,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=123
 无台标 576,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=128
 无信号 576,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=122
