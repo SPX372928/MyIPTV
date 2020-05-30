@@ -153,7 +153,6 @@ SiTV极速汽车 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 央广购物 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225856/index.m3u8
 江苏好享购物 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8
 江西风尚购物 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225500/index.m3u8
-安康综合 6.5M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226377/index.m3u8
 宝鸡1 7M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
 宝鸡2 7M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
 宁强1 2M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
@@ -409,6 +408,13 @@ NNM新娱乐 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226243/i
 陕西都市青春 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
 陕西都市青春 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
 陕视直播 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226408/index.m3u8
+西安1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
+西安2 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
+西安3 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
+西安4 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
+西安丝路 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
+西安教育 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+榆林1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226377/index.m3u8
 略阳1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226328/index.m3u8
 略阳1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226329/index.m3u8
 汉中1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226327/index.m3u8
@@ -421,12 +427,6 @@ NNM新娱乐 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226243/i
 汉中3 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225995/index.m3u8
 铜川1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226379/index.m3u8
 铜川2 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226380/index.m3u8
-西安1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
-西安2 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
-西安3 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
-西安4 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
-西安丝路 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
-西安教育 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 佛坪 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226454/index.m3u8
 咸阳1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
 商洛1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
