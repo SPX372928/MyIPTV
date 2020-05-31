@@ -1,4 +1,90 @@
-暂时失效
+CCTV1 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=67
+CCTV2 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=68
+CCTV4 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=70
+CCTV7 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=73
+CCTV9 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=74
+CCTV10 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=75
+CCTV12 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=77
+CCTV14 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=79
+东方卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=38
+北京卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=37
+四川卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=141
+天津卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=41
+安徽卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=40
+山东卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=39
+广东卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=54
+江苏卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=36
+河南卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=129
+浙江卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=35
+深圳卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=45
+湖北卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=44
+湖南卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=43
+辽宁卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=55
+黑龙江卫视 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=131
+河南都市 Max4M1080,http://player.200877926.top/18/tv.php?tv=hayx&id=82
+CCTV1 576,http://player.200877926.top/18/tv.php?tv=hayx&id=184
+CCTV3 576,http://player.200877926.top/18/tv.php?tv=hayx&id=69
+CCTV11 576,http://player.200877926.top/18/tv.php?tv=hayx&id=76
+CCTV13 576,http://player.200877926.top/18/tv.php?tv=hayx&id=78
+CCTV15 576,http://player.200877926.top/18/tv.php?tv=hayx&id=80
+云南卫视 576,http://player.200877926.top/18/tv.php?tv=hayx&id=64
+山西卫视 576,http://player.200877926.top/18/tv.php?tv=hayx&id=63
+重庆卫视 576,http://player.200877926.top/18/tv.php?tv=hayx&id=58
+河南卫视 576,http://player.200877926.top/18/tv.php?tv=hayx&id=117
+河南公共 576,http://player.200877926.top/18/tv.php?tv=hayx&id=87
+河南国际 576,http://player.200877926.top/18/tv.php?tv=hayx&id=130
+河南民生 576,http://player.200877926.top/18/tv.php?tv=hayx&id=83
+河南法治 576,http://player.200877926.top/18/tv.php?tv=hayx&id=84
+河南电视剧 576,http://player.200877926.top/18/tv.php?tv=hayx&id=85
+广东嘉佳卡通 576,http://player.200877926.top/18/tv.php?tv=hayx&id=66
+湖南金鹰卡通 576,http://player.200877926.top/18/tv.php?tv=hayx&id=65
+郑州商都 540,http://player.200877926.top/18/tv.php?tv=hayx&id=132
+郑州妇女儿童 576,http://player.200877926.top/18/tv.php?tv=hayx&id=135
+郑州影视戏曲 540,http://player.200877926.top/18/tv.php?tv=hayx&id=134
+郑州教育 576,http://player.200877926.top/18/tv.php?tv=hayx&id=137
+郑州文体 540,http://player.200877926.top/18/tv.php?tv=hayx&id=133
+郑州新闻综合 540,http://player.200877926.top/18/tv.php?tv=hayx&id=81
+郑州都市生活 576,http://player.200877926.top/18/tv.php?tv=hayx&id=136
+三门峡新闻综合 576,http://player.200877926.top/18/tv.php?tv=hayx&id=195
+伊川 576,http://player.200877926.top/18/tv.php?tv=hayx&id=101
+信阳综合 576,http://player.200877926.top/18/tv.php?tv=hayx&id=200
+南乐综合 576,http://player.200877926.top/18/tv.php?tv=hayx&id=206
+南阳新闻综合 576,http://player.200877926.top/18/tv.php?tv=hayx&id=199
+周口1 576,http://player.200877926.top/18/tv.php?tv=hayx&id=118
+周口1 576,http://player.200877926.top/18/tv.php?tv=hayx&id=197
+商水 576,http://player.200877926.top/18/tv.php?tv=hayx&id=119
+太康综合 576,http://player.200877926.top/18/tv.php?tv=hayx&id=121
+宜阳综合 576,http://player.200877926.top/18/tv.php?tv=hayx&id=105
+新安新闻综合 576,http://player.200877926.top/18/tv.php?tv=hayx&id=205
+汝阳综合 576,http://player.200877926.top/18/tv.php?tv=hayx&id=103
+洛宁1 576,http://player.200877926.top/18/tv.php?tv=hayx&id=104
+洛阳文旅 540,http://player.200877926.top/18/tv.php?tv=hayx&id=159
+洛阳新闻综合 576,http://player.200877926.top/18/tv.php?tv=hayx&id=158
+洛阳科教 540,http://player.200877926.top/18/tv.php?tv=hayx&id=160
+洛阳经开 540,http://player.200877926.top/18/tv.php?tv=hayx&id=208
+济源 576,http://player.200877926.top/18/tv.php?tv=hayx&id=201
+漯河新闻综合 576,http://player.200877926.top/18/tv.php?tv=hayx&id=194
+焦作公共 540,http://player.200877926.top/18/tv.php?tv=hayx&id=202
+焦作教育 540,http://player.200877926.top/18/tv.php?tv=hayx&id=203
+睛彩焦作 540,http://player.200877926.top/18/tv.php?tv=hayx&id=204
+西华 576,http://player.200877926.top/18/tv.php?tv=hayx&id=120
+项城 576,http://player.200877926.top/18/tv.php?tv=hayx&id=114
+项城 576,http://player.200877926.top/18/tv.php?tv=hayx&id=116
+驻马店新闻综合 576,http://player.200877926.top/18/tv.php?tv=hayx&id=198
+鹿邑 576,http://player.200877926.top/18/tv.php?tv=hayx&id=113
+栾川新闻 576,http://player.200877926.top/18/tv.php?tv=hayx&id=126
+嵩县综合新闻 576,http://player.200877926.top/18/tv.php?tv=hayx&id=106
+无台标 576,http://player.200877926.top/18/tv.php?tv=hayx&id=123
+无台标 576,http://player.200877926.top/18/tv.php?tv=hayx&id=128
+无信号 576,http://player.200877926.top/18/tv.php?tv=hayx&id=122
+音频,http://player.200877926.top/18/tv.php?tv=hayx&id=161
+音频,http://player.200877926.top/18/tv.php?tv=hayx&id=162
+音频,http://player.200877926.top/18/tv.php?tv=hayx&id=164
+音频,http://player.200877926.top/18/tv.php?tv=hayx&id=89
+音频,http://player.200877926.top/18/tv.php?tv=hayx&id=90
+
+
+下面这套加了验证，暂时不可用
 CCTV1 Max4M1080,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=67
 CCTV2 Max4M1080,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=68
 CCTV4 Max4M1080,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=70
