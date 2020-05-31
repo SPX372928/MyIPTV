@@ -1,3 +1,4 @@
+暂时失效
 CCTV1 Max4M1080,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=67
 CCTV2 Max4M1080,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=68
 CCTV4 Max4M1080,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hoge.m3u8?ip=hayx&id=70
