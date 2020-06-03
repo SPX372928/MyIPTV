@@ -11,7 +11,7 @@
 凤凰资讯 8M1080,http://yun168.ddns.net:44444/udp/239.93.1.4:2191
 CCTV1 6M1080,http://yun168.ddns.net:44444/udp/239.93.0.184:5140
 CCTV1 6M1080,http://yun168.ddns.net:44444/udp/239.93.0.69:5140
-CCTV1 Max6.7M1080,http://yun168.ddns.net:44444/udp/239.93.1.152:5140
+CCTV1 Max7M1080,http://yun168.ddns.net:44444/udp/239.93.1.152:5140
 CCTV1 Max7M1080,http://yun168.ddns.net:44444/udp/239.93.1.174:5140
 CCTV2 6M1080,http://yun168.ddns.net:44444/udp/239.93.1.160:6000
 CCTV2 6M1080,http://yun168.ddns.net:44444/udp/239.93.1.23:6000
