@@ -114,6 +114,7 @@ NewTV超级综艺 4M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225
 NewTV超级综艺 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225924/index.m3u8
 NewTV金牌综艺 4M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
 NewTV海外剧场 4M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8
+NewTV明星大片 4M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8
 SiTV动漫秀场 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
 SiTV极速汽车 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226140/index.m3u8
 SiTV欢笑剧场 7M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/index.m3u8
@@ -140,9 +141,8 @@ SiTV游戏风云 7M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/32212269
 影视2 7M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
 影视3 3.5M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226631/index.m3u8
 影视4 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8
-影视5 4M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8
-影视6 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
-影视7 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
+影视5 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
+影视6 8M1080,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
 中国教育1 576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225869/index.m3u8
 中国教育4 4M576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227050/index.m3u8
 CGTN 3.5M576,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
