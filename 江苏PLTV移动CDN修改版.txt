@@ -404,7 +404,7 @@ VR直播 720+576+360,http://183.207.248.174/ott.js.chinamobile.com/PLTV/3/224/32
 青岛中华美食 576,http://183.207.248.208/ott.js.chinamobile.com/PLTV/3/224/3221227017/index.m3u8
 国学频道 576,http://183.207.249.135/ott.js.chinamobile.com/PLTV/3/224/3221227020/index.m3u8
 弈坛春秋 576,http://183.207.249.168/ott.js.chinamobile.com/PLTV/3/224/3221227031/index.m3u8
-新娱乐 576,http://183.207.249.235/ott.js.chinamobile.com/PLTV/3/224/3221227021/index.m3u8
+生态环境 576,http://183.207.249.235/ott.js.chinamobile.com/PLTV/3/224/3221227021/index.m3u8
 京视剧场 576,http://183.207.249.135/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
 置业频道 576,http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
 南京新闻综合 576,http://183.207.249.137/ott.js.chinamobile.com/PLTV/3/224/3221227213/index.m3u8
