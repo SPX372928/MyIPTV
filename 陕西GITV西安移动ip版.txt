@@ -144,7 +144,7 @@ IPTV相声小品 576,http://211.137.115.120/gitv_live/G_IPTV-XSXP/G_IPTV-XSXP.m3
 京视剧场 576,http://211.137.115.120/gitv_live/G_JINGJU/G_JINGJU.m3u8
 弈坛春秋 576,http://211.137.115.120/gitv_live/G_YITANCQ/G_YITANCQ.m3u8
 置业频道 576,http://211.137.115.120/gitv_live/G_ZHIYE/G_ZHIYE.m3u8
-新娱乐 576,http://211.137.115.120/gitv_live/G_XINYULE/G_XINYULE.m3u8
+生态环境 576,http://211.137.115.120/gitv_live/G_XINYULE/G_XINYULE.m3u8
 台球 576,http://211.137.115.120/gitv_live/G_TAIQIU/G_TAIQIU.m3u8
 足球 576,http://211.137.115.120/gitv_live/G_ZUQIU/G_ZUQIU.m3u8
 NNM家庭理财 576,http://211.137.115.120/gitv_live/G_JIATINGLC/G_JIATINGLC.m3u8
