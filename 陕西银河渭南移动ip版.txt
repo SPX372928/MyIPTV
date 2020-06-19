@@ -144,7 +144,7 @@ IPTV相声小品 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001659/in
 陕西农林卫视 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 青海安多卫视 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 NNM家庭理财 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001321/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-NNM新娱乐 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001320/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+生态环境 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001320/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 上海哈哈炫动 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卡酷少儿 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001066/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东嘉佳卡通 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -194,9 +194,9 @@ NNM新娱乐 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001320/index.
 留坝 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001447/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 铜川1 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001735/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 铜川2 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001770/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+略阳1 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001417/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+略阳1 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001440/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 马赛克 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001270/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-? 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001417/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-? 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001440/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 央广购物 720,http://111.20.105.60:6060/yinhe/2/ch00000090990000001286/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江西风尚购物 720,http://111.20.105.60:6060/yinhe/2/ch00000090990000001437/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽家家购物 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001584/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
