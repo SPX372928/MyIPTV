@@ -372,7 +372,7 @@ NewTV健康有约 404,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225
 栾坛春秋 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
 置业频道 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8
-NNM新娱乐 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226243/index.m3u8
+生态环境 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226243/index.m3u8
 京视剧场 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
 上海哈哈炫动 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225528/index.m3u8
 上海哈哈炫动 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
