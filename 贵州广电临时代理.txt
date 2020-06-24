@@ -76,8 +76,6 @@ SiTV金色频道 7M1080,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=hqly
 赤水 7M1080,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cs
 黎平综合 9M1080,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=lphd
 黔东南新闻综合 7M1080,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=qdn1xwzh
-黔西南公共 2M1080,http://live.qxndt.com/channel3/sd/live.m3u8
-黔西南综合 2M1080,http://live.qxndt.com/channel2/sd/live.m3u8
 龙里 7M1080,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=llxxw
 GGCB_GXTV 7M1080,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=gxwshd
 北京家有购物 7M1080,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=jygw
@@ -224,6 +222,7 @@ NNM游戏竞技 576,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=yxjj
 凤凰中文 576,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fhzw
 凤凰电影 576,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fhdy
 凤凰资讯 576,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fhzx
+星空电影 576,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsgjdy
 卫视体育 576,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsty2
 卫视体育2 576,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsty
 卫视国际电影 576,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsgjdy
@@ -317,8 +316,6 @@ SiTV金色频道 7M1080,http://106.54.30.243/gz009/gz.php?id=hqly
 赤水 7M1080,http://106.54.30.243/gz009/gz.php?id=cs
 黎平综合 9M1080,http://106.54.30.243/gz009/gz.php?id=lphd
 黔东南新闻综合 7M1080,http://106.54.30.243/gz009/gz.php?id=qdn1xwzh
-黔西南公共 2M1080,http://live.qxndt.com/channel3/sd/live.m3u8
-黔西南综合 2M1080,http://live.qxndt.com/channel2/sd/live.m3u8
 龙里 7M1080,http://106.54.30.243/gz009/gz.php?id=llxxw
 GGCB_GXTV 7M1080,http://106.54.30.243/gz009/gz.php?id=gxwshd
 北京家有购物 7M1080,http://106.54.30.243/gz009/gz.php?id=jygw
@@ -465,6 +462,7 @@ NNM游戏竞技 576,http://106.54.30.243/gz009/gz.php?id=yxjj
 凤凰中文 576,http://106.54.30.243/gz009/gz.php?id=fhzw
 凤凰电影 576,http://106.54.30.243/gz009/gz.php?id=fhdy
 凤凰资讯 576,http://106.54.30.243/gz009/gz.php?id=fhzx
+星空电影 576,http://106.54.30.243/gz009/gz.php?id=wsgjdy
 卫视体育 576,http://106.54.30.243/gz009/gz.php?id=wsty2
 卫视体育2 576,http://106.54.30.243/gz009/gz.php?id=wsty
 卫视国际电影 576,http://106.54.30.243/gz009/gz.php?id=wsgjdy
@@ -492,8 +490,6 @@ SiTV游戏风云 7M1080,http://www.dszbdq.cn/play/gz0520.php?id=yxfy
 SiTV金色频道 7M1080,http://www.dszbdq.cn/play/gz0520.php?id=hqly
 湖南快乐垂钓 6M1080,http://www.dszbdq.cn/play/gz0520.php?id=klcd
 青岛中华美食 7M1080,http://www.dszbdq.cn/play/gz0520.php?id=zhms
-黔西南公共 2M1080,http://live.qxndt.com/channel3/sd/live.m3u8
-黔西南综合 2M1080,http://live.qxndt.com/channel2/sd/live.m3u8
 CCTV世界地理 576,http://www.dszbdq.cn/play/gz0520.php?id=sjdl
 CCTV卫生健康 576,http://www.dszbdq.cn/play/gz0520.php?id=wsjk
 CCTV发现之旅 576,http://www.dszbdq.cn/play/gz0520.php?id=fxzl
