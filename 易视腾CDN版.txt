@@ -163,11 +163,15 @@ CGTN 4M576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Conten
 上海五星体育 720,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&stbId=4
 上海哈哈炫动 4M576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=4
 上海哈哈炫动 540,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7253543213338128343&livemode=1&stbId=4
-湖南金鹰纪实 4M576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=4
+湖南公共 576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6307875884530512195&livemode=1&stbId=4
+湖南娱乐 576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6427893650335440392&livemode=1&stbId=4
+湖南电影 576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7884242846753128038&livemode=1&stbId=4
+湖南电视剧 576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8765482907954673867&livemode=1&stbId=4
+湖南金鹰卡通 4M576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=4
 湖南金鹰卡通 576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5201381050640253101&livemode=1&stbId=4
+湖南金鹰纪实 4M576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=4
 江苏优漫卡通 4M576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=4
 广东嘉佳卡通 4M576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=4
-湖南金鹰卡通 4M576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=4
 北京卡酷少儿 576,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=4
 SiTV生活时尚 720,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&stbId=4
 SiTV欢笑剧场 540,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6550198305014687851&livemode=1&stbId=4
