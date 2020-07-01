@@ -1,15 +1,3 @@
-新疆卫视 2M1080,http://tv.kksyw.top/tv246/gn/xj.php?id=1
-新疆2维语新闻综合 720,http://tv.kksyw.top/tv246/gn/xj.php?id=2
-新疆3哈语新闻综合 720,http://tv.kksyw.top/tv246/gn/xj.php?id=3
-新疆4汉语综艺 720,http://tv.kksyw.top/tv246/gn/xj.php?id=4
-新疆5维语综艺 720,http://tv.kksyw.top/tv246/gn/xj.php?id=5
-新疆7汉语经济生活 720,http://tv.kksyw.top/tv246/gn/xj.php?id=7
-新疆8哈语综艺 720,http://tv.kksyw.top/tv246/gn/xj.php?id=8
-新疆9维语经济生活 720,http://tv.kksyw.top/tv246/gn/xj.php?id=9
-新疆10汉语体育健康 720,http://tv.kksyw.top/tv246/gn/xj.php?id=10
-新疆11汉语法制信息 720,http://tv.kksyw.top/tv246/gn/xj.php?id=11
-新疆12少儿 720,http://tv.kksyw.top/tv246/gn/xj.php?id=12
-
 新疆卫视 2M1080,http://ott-iptv.cc/gxgw/xinjiang/xinjiang.php?id=1
 新疆2维语新闻综合 720,http://ott-iptv.cc/gxgw/xinjiang/xinjiang.php?id=2
 新疆3哈语新闻综合 720,http://ott-iptv.cc/gxgw/xinjiang/xinjiang.php?id=3
@@ -22,18 +10,6 @@
 新疆11汉语法制信息 720,http://ott-iptv.cc/gxgw/xinjiang/xinjiang.php?id=11
 新疆12少儿 720,http://ott-iptv.cc/gxgw/xinjiang/xinjiang.php?id=12
 
-新疆卫视 2M1080,http://tv.boye.ml/iptv/xjtv.php?id=1
-新疆2维语新闻综合 720,http://tv.boye.ml/iptv/xjtv.php?id=2
-新疆3哈语新闻综合 720,http://tv.boye.ml/iptv/xjtv.php?id=3
-新疆4汉语综艺 720,http://tv.boye.ml/iptv/xjtv.php?id=4
-新疆5维语综艺 720,http://tv.boye.ml/iptv/xjtv.php?id=5
-新疆7汉语经济生活 720,http://tv.boye.ml/iptv/xjtv.php?id=7
-新疆8哈语综艺 720,http://tv.boye.ml/iptv/xjtv.php?id=8
-新疆9维语经济生活 720,http://tv.boye.ml/iptv/xjtv.php?id=9
-新疆10汉语体育健康 720,http://tv.boye.ml/iptv/xjtv.php?id=10
-新疆11汉语法制信息 720,http://tv.boye.ml/iptv/xjtv.php?id=11
-新疆12少儿 720,http://tv.boye.ml/iptv/xjtv.php?id=12
-
 新疆卫视 2M1080,http://www.dszbdq.cn/diao/xinjiang.php?id=1
 新疆2维语新闻综合 720,http://www.dszbdq.cn/diao/xinjiang.php?id=2
 新疆3哈语新闻综合 720,http://www.dszbdq.cn/diao/xinjiang.php?id=3
@@ -45,6 +21,18 @@
 新疆10汉语体育健康 720,http://www.dszbdq.cn/diao/xinjiang.php?id=10
 新疆11汉语法制信息 720,http://www.dszbdq.cn/diao/xinjiang.php?id=11
 新疆12少儿 720,http://www.dszbdq.cn/diao/xinjiang.php?id=12
+
+新疆卫视 2M1080,http://tv.boye.ml/iptv/xjtv.php?id=1
+新疆2维语新闻综合 720,http://tv.boye.ml/iptv/xjtv.php?id=2
+新疆3哈语新闻综合 720,http://tv.boye.ml/iptv/xjtv.php?id=3
+新疆4汉语综艺 720,http://tv.boye.ml/iptv/xjtv.php?id=4
+新疆5维语综艺 720,http://tv.boye.ml/iptv/xjtv.php?id=5
+新疆7汉语经济生活 720,http://tv.boye.ml/iptv/xjtv.php?id=7
+新疆8哈语综艺 720,http://tv.boye.ml/iptv/xjtv.php?id=8
+新疆9维语经济生活 720,http://tv.boye.ml/iptv/xjtv.php?id=9
+新疆10汉语体育健康 720,http://tv.boye.ml/iptv/xjtv.php?id=10
+新疆11汉语法制信息 720,http://tv.boye.ml/iptv/xjtv.php?id=11
+新疆12少儿 720,http://tv.boye.ml/iptv/xjtv.php?id=12
 
 新疆卫视 2M1080,http://stream.guihet.com/tv/xjtvs.php?id=1
 新疆2维语新闻综合 720,http://stream.guihet.com/tv/xjtvs.php?id=2
