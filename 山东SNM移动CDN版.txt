@@ -56,7 +56,7 @@ Hot精品剧场限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL0
 SiTV全纪实限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
 SiTV动漫秀场限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
 SiTV极速汽车限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002001/index.m3u8
-SiTV欢笑剧场限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002004/index.m3u8
+SiTV欢笑剧场定格 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002004/index.m3u8
 SiTV法治天地限免 6M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
 SiTV金色频道限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
 SiTV生活时尚限免 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
@@ -215,6 +215,7 @@ IPTV法制 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.
 曲阜新闻综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001052/index.m3u8
 冠县综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8
 定陶1 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001063/index.m3u8
+东明新闻综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001065/index.m3u8
 山东居家购物 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
 巨鲨环球精选 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000706/index.m3u8
 江苏好享购物 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000707/index.m3u8
