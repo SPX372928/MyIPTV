@@ -58,6 +58,7 @@ SiTV生活时尚 4M1080,http://cg0.hunancatv.cn:9090/live/SHSS.m3u8?ci=123
 湖南快乐购 4M1080,http://cg0.hunancatv.cn:9090/live/KLG.m3u8?ci=123
 CCTV13 576,http://cg0.hunancatv.cn:9090/live/CCTV-13.m3u8?ci=123
 CCTV兵器科技 720,http://cg0.hunancatv.cn:9090/live/GFJS.m3u8?ci=123
+CCTV风云足球 720,http://cg0.hunancatv.cn:9090/live/FYZQ.m3u8?ci=123
 东南卫视 576,http://cg0.hunancatv.cn:9090/live/FJWS.m3u8?ci=123
 云南卫视 576,http://cg0.hunancatv.cn:9090/live/YNWS.m3u8?ci=123
 内蒙古卫视 576,http://cg0.hunancatv.cn:9090/live/NMGWS.m3u8?ci=123
