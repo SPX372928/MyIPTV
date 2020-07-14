@@ -1,0 +1,17 @@
+中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+维语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+哈语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
