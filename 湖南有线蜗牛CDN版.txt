@@ -15,6 +15,7 @@ CCTV9 4M1080,http://cg0.hunancatv.cn:9090/live/CCTV9.m3u8?ci=123
 CCTV10 4M1080,http://cg0.hunancatv.cn:9090/live/CCTV10.m3u8?ci=123
 CCTV11 4M1080,http://cg0.hunancatv.cn:9090/live/CCTV-11.m3u8?ci=123
 CCTV12 4M1080,http://cg0.hunancatv.cn:9090/live/CCTV12.m3u8?ci=123
+CCTV13 4M1080,http://cg0.hunancatv.cn:9090/live/CCTV-13.m3u8?ci=123
 CCTV14 4M1080,http://cg0.hunancatv.cn:9090/live/CCTV14.m3u8?ci=123
 CCTV15 4M1080,http://cg0.hunancatv.cn:9090/live/CCTV-15.m3u8?ci=123
 CCTV17 4M1080,http://cg0.hunancatv.cn:9090/live/CCTV17.m3u8?ci=123
