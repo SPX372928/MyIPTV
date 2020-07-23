@@ -1,6 +1,12 @@
 抽风严重,未来可能要代理
 内蒙古卫视 1080,http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 内蒙古卫视 1080,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+内蒙古蒙语卫视 1080,http://live5.m2oplus.nmtv.cn/3/playlist.m3u8
+内蒙古蒙语卫视 1080,http://live5.m2oplus.nmtv.cn/3/sd/live.m3u8
+内蒙古蒙语文化 1080,http://live5.m2oplus.nmtv.cn/5/playlist.m3u8
+内蒙古蒙语文化 1080,http://live5.m2oplus.nmtv.cn/5/sd/live.m3u8
+内蒙古经济生活 1080,http://live5.m2oplus.nmtv.cn/2/playlist.m3u8
+内蒙古经济生活 1080,http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
 内蒙古农牧 1080,http://live4.m2oplus.nmtv.cn/6/playlist.m3u8
 内蒙古农牧 1080,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
 内蒙古少儿 1080,http://live5.m2oplus.nmtv.cn/4/playlist.m3u8
