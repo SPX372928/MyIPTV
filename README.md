@@ -20,3 +20,5 @@
 - [IDM](http://www.internetdownloadmanager.com/) (可检测http源，单次限制1000条，也适用于部分CDN版无法直接打开的源，成功获取ip后保存)
 - [黑鸟播放器](https://guihet.com/blackbird-player.html) (多种协议直播源检测，无条数限制，但反应稍慢)
 - [直播源列表转换](https://guihet.com/tvlive-telelist.html) (转换格式供多种播放器使用)
+### 关于PLTV回看 
+部分带PLTV的链接支持7天回看，支持回看的播放器可以直接调用，不支持的也可以通过自定义来实现回看，不过要自己查一下节目单。在地址最后加上?playseek=开始时间-结束时间 (如?playseek=20200722222222-20200722223222代表2020年7月22日22时22分22秒之后的10分钟片段)，再将地址里的PLTV改成TVOD即可播放 例:[直播格式](http://183.207.248.108/ott.js.chinamobile.com/PLTV/3/224/3221227581/index.m3u8) [回看格式](http://183.207.248.108/ott.js.chinamobile.com/TVOD/3/224/3221227581/index.m3u8?playseek=20200722222222-20200722223222)
