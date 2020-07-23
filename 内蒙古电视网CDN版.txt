@@ -1,0 +1,29 @@
+抽风严重,未来可能要代理
+内蒙古卫视 1080,http://live.m2oplus.nmtv.cn/1/playlist.m3u8
+内蒙古卫视 1080,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+内蒙古农牧 1080,http://live4.m2oplus.nmtv.cn/6/playlist.m3u8
+内蒙古农牧 1080,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
+内蒙古少儿 1080,http://live5.m2oplus.nmtv.cn/4/playlist.m3u8
+内蒙古少儿 1080,http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
+内蒙古文体娱乐 1080,http://live4.m2oplus.nmtv.cn/8/playlist.m3u8
+内蒙古文体娱乐 1080,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
+内蒙古新闻综合 1080,http://live.m2oplus.nmtv.cn/7/playlist.m3u8
+内蒙古新闻综合 1080,http://live.m2oplus.nmtv.cn/7/sd/live.m3u8
+交通之声广播,http://live3.m2oplus.nmtv.cn/aac_jtzs/playlist.m3u8
+交通之声广播,http://live3.m2oplus.nmtv.cn/aac_jtzs/sq/live.m3u8
+农村牧区绿野之声广播,http://live.m2oplus.nmtv.cn/aac_ncmqgb/playlist.m3u8
+农村牧区绿野之声广播,http://live.m2oplus.nmtv.cn/aac_ncmqgb/sq/live.m3u8
+新闻广播,http://live3.m2oplus.nmtv.cn/aac_xwgb/playlist.m3u8
+新闻广播,http://live3.m2oplus.nmtv.cn/aac_xwgb/sq/live.m3u8
+汉语综合广播,http://live3.m2oplus.nmtv.cn/aac_hyzh/playlist.m3u8
+汉语综合广播,http://live3.m2oplus.nmtv.cn/aac_hyzh/sq/live.m3u8
+经济生活广播,http://live3.m2oplus.nmtv.cn/aac_jjshgb/playlist.m3u8
+经济生活广播,http://live3.m2oplus.nmtv.cn/aac_jjshgb/sq/live.m3u8
+草原之声广播,http://live4.m2oplus.nmtv.cn/aac_cyzsgb/playlist.m3u8
+草原之声广播,http://live4.m2oplus.nmtv.cn/aac_cyzsgb/sq/live.m3u8
+蒙古语广播,http://live.m2oplus.nmtv.cn/aac_mgygb/playlist.m3u8
+蒙古语广播,http://live.m2oplus.nmtv.cn/aac_mgygb/sq/live.m3u8
+评书曲艺广播,http://live.m2oplus.nmtv.cn/aac_psqy/playlist.m3u8
+评书曲艺广播,http://live.m2oplus.nmtv.cn/aac_psqy/sq/live.m3u8
+音乐之声广播,http://live3.m2oplus.nmtv.cn/aac_yyzs/playlist.m3u8
+音乐之声广播,http://live3.m2oplus.nmtv.cn/aac_yyzs/sq/live.m3u8
