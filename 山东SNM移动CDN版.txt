@@ -1,4 +1,4 @@
-海看4K片段 15M2160,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
+海看4K 32M2160HDR,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
 CCTV1 5M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 CCTV1 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002013/index.m3u8
 CCTV2 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
