@@ -39,10 +39,6 @@ CCTV13拉伸 1080,http://yd-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
 浙江民生休闲 1080,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江民生休闲 1080,http://yd-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲 1080,http://yd-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-浙江留学世界 1080,http://hw-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-浙江留学世界 1080,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-浙江留学世界 1080,http://yd-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-浙江留学世界 1080,http://yd-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
 浙江经济生活 1080,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活 1080,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江经济生活 1080,http://yd-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
