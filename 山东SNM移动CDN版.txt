@@ -216,6 +216,7 @@ IPTV法制 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.
 冠县综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8
 定陶1 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001063/index.m3u8
 东明新闻综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001065/index.m3u8
+新泰乡村 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001066/index.m3u8
 山东居家购物 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
 巨鲨环球精选 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000706/index.m3u8
 江苏好享购物 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000707/index.m3u8
