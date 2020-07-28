@@ -16,9 +16,10 @@
 - [ip端口扫描](https://www.52pojie.cn/forum.php?mod=viewthread&tid=510180) (初步筛选可用ip及端口)
 - [在线正则生成批量链接](http://tools.jb51.net/aideddesign/ljscq) (不会正则，可以用在线的)
 - [在线文本比较](http://wenbenbijiao.renrensousuo.com/) (通过比较来确定同一套源的频道增减)
-- [IPTV Checker](http://www.downmsn.com/rjxz/23256.html) (和初步检测http源，无条数限制)
+- [IPTV Checker](http://www.downmsn.com/rjxz/23256.html) (初步检测http源，无条数限制)
 - [IDM](http://www.internetdownloadmanager.com/) (可检测http源，单次限制1000条，也适用于部分CDN版无法直接打开的源，成功获取ip后保存)
-- [黑鸟播放器](https://guihet.com/blackbird-player.html) (多种协议直播源检测，无条数限制，但反应稍慢)
+- [黑鸟播放器](https://guihet.com/blackbird-player.html) (多种协议直播源检测，无条数限制，但反应稍慢，正常的源也可能出现超时情况)
+- [VLC播放器](https://vlc.media/) (用来扫rtsp双id的源不错) (另外rtsp源已知id多线程扫ip易断网，单ip多线程扫id在有些地区也易断网)
 - [直播源列表转换](https://guihet.com/tvlive-telelist.html) (转换格式供多种播放器使用)
 ### 关于PLTV回看 
 部分带PLTV的链接支持7天回看，支持回看的播放器可以直接调用，不支持的也可以通过自定义来实现回看，不过要自己查一下节目单。在地址最后加上?playseek=开始时间-结束时间 (如?playseek=20200722222222-20200722223222代表2020年7月22日22时22分22秒之后的10分钟片段)，再将地址里的PLTV改成TVOD即可播放 例:[直播格式](http://183.207.248.108/ott.js.chinamobile.com/PLTV/3/224/3221227581/index.m3u8) [回看格式](http://183.207.248.108/ott.js.chinamobile.com/TVOD/3/224/3221227581/index.m3u8?playseek=20200722222222-20200722223222)
