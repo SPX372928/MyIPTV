@@ -105,7 +105,6 @@ SiTV游戏风云 480,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/ocn/
 上海东方影视 1080,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=1
 上海哈哈炫动 480,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/ws_w/2018/xdkt/xdkt711/1000/index.m3u8?&encrypt=1
 上海新闻综合 1080,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=1 
-上海第一财经 480,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r1/2018/bestv/dycj/1000/index.m3u8?&encrypt=1
 上海纪实人文 720,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/jspdhd/2000/index.m3u8?&encrypt=1
 上海都市 1080,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=1
 上海哈哈炫动 480,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/ws_w/2018/xdkt/xdkt711/1000/index.m3u8?&encrypt=1
@@ -342,7 +341,6 @@ SiTV游戏风云 480,http://live.hcs.cmvideo.cn:8088/wd_r2/ocn/youxifengyunhd/60
 上海东方影视 1080,http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=1
 上海哈哈炫动 480,http://live.hcs.cmvideo.cn:8088/ws_w/2018/xdkt/xdkt711/1000/index.m3u8?&encrypt=1
 上海新闻综合 1080,http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=1 
-上海第一财经 480,http://live.hcs.cmvideo.cn:8088/wd_r1/2018/bestv/dycj/1000/index.m3u8?&encrypt=1
 上海纪实人文 720,http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/jspdhd/2000/index.m3u8?&encrypt=1
 上海都市 1080,http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=1
 上海哈哈炫动 480,http://live.hcs.cmvideo.cn:8088/ws_w/2018/xdkt/xdkt711/1000/index.m3u8?&encrypt=1
