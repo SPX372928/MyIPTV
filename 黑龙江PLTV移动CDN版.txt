@@ -33,6 +33,7 @@ NewTV安徽 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790
 NewTV山东 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
 NewTV广东 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
 NewTV江西 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
+NewTV东北热剧 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225498/index.m3u8
 NewTV东北热剧 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV中国功夫 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 NewTV农业致富 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
@@ -50,6 +51,13 @@ NewTV超级综艺 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221
 NewTV金牌综艺 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV明星大片 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 NewTV海外剧场 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV动作电影 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV家庭剧场 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV精品大剧 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV军事评论 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV军旅剧场 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV古装剧场 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+NewTV怡伴健康 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 黑莓动画 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225744/index.m3u8
 黑莓电影 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
@@ -137,13 +145,6 @@ CGTN纪录 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/ind
 哈尔滨资讯 4M576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 NewTV云南 4M720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 NewTV广西 4M720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
-NewTV动作电影 720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-NewTV家庭剧场 720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-NewTV精品大剧 720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-NewTV军事评论 404,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-NewTV军旅剧场 404,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NewTV古装剧场 404,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-NewTV怡伴健康 404,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 上海纪实人文 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8
 北京冬奥纪实 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225756/index.m3u8
 上海哈哈炫动 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
@@ -151,5 +152,5 @@ NewTV怡伴健康 404,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 湖南金鹰卡通 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 江苏优漫卡通 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 北京家有购物 720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8
-巨鲨环球精选 4M576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
+聚鲨环球精选 4M576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
 未知 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225758/index.m3u8
