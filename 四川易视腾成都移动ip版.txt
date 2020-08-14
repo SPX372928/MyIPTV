@@ -36,6 +36,7 @@ CCTV17 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cN
 贵州卫视 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/guizhoustv/index.m3u8
 辽宁卫视 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/liaoningstv/index.m3u8
 重庆卫视 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/chongqingstv/index.m3u8
+甘肃卫视 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/gansustv/index.m3u8
 黑龙江卫视 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hljtv1/index.m3u8
 黑莓动画 4M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/donghuawg/1.m3u8
 黑莓电影 4M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jdianying/1.m3u8
@@ -66,7 +67,6 @@ CGTN纪录 576,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.c
 新疆卫视 576,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/xinjiangstv/index.m3u8
 江西卫视 576,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jiangxistv/index.m3u8
 海南卫视 576,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/lvyoustv/index.m3u8
-甘肃卫视 576,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/gansustv/index.m3u8
 西藏卫视 576,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/xizangstv/index.m3u8
 陕西卫视 576,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/shanxi1stv/index.m3u8
 青海卫视 576,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/qinghaistv/index.m3u8
