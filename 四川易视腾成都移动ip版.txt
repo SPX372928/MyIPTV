@@ -1,3 +1,4 @@
+延时11分钟多，介意的就不用看了
 四川峨眉电影 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/1.m3u8
 CCTV1 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-1/index.m3u8
 CCTV2 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-2/index.m3u8
@@ -12,6 +13,7 @@ CCTV9 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF
 CCTV10 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-10/index.m3u8
 CCTV11 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-11/index.m3u8
 CCTV12 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-12/index.m3u8
+CCTV13 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-13/index.m3u8
 CCTV14 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-14/index.m3u8
 CCTV15 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-15/index.m3u8
 CCTV17 8M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-17/index.m3u8
@@ -56,7 +58,6 @@ NewTV精品纪录 2.5M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte
 NewTV金牌综艺 2.5M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/saishijx/1.m3u8
 江西风尚购物 4M1080,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/fengshanggw/1.m3u8
 北京家有购物 720,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-jiayougw/1.m3u8
-CCTV13 576,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-13/index.m3u8
 CGTN纪录 576,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-9/1.m3u8
 云南卫视 576,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/yunnanstv/index.m3u8
 宁夏卫视 576,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/ningxiastv/index.m3u8
