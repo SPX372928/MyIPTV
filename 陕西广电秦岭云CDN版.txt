@@ -1,3 +1,4 @@
+秦岭云现在前面要加ip才能看，比如61.191.60.52 :wink:
 CCTV1 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226013/index.m3u8
 CCTV1 8M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 CCTV2 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
@@ -71,7 +72,6 @@ CCTV7 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226003/index.m3u8
 CCTV8 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225602/index.m3u8
 CCTV8 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225751/index.m3u8
 CCTV9 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225497/index.m3u8
-CCTV10 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225499/index.m3u8
 CCTV11 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225501/index.m3u8
 CCTV11 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225701/index.m3u8
 CCTV12 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225508/index.m3u8
@@ -344,7 +344,6 @@ CGTN 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225707/index.m3u8
 黄陵 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225886/index.m3u8
 黄龙 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225916/index.m3u8
 CCTV3 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225742/index.m3u8
-CCTV8 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225752/index.m3u8
 CCTV11 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225702/index.m3u8
 CCTV13 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225704/index.m3u8
 CCTV15 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225706/index.m3u8
@@ -364,14 +363,17 @@ CGTN 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225708/index.m3u8
 湖北卫视 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225714/index.m3u8
 重庆卫视 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225807/index.m3u8
 青海卫视 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225730/index.m3u8
+陕西卫视 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225783/index.m3u8
 陕西新闻资讯 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225772/index.m3u8
 陕西都市青春 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225712/index.m3u8
+西安1 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225812/index.m3u8
 兴平1 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225975/index.m3u8
 商洛1 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225825/index.m3u8
 宁陵 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225923/index.m3u8
 宝鸡1 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225827/index.m3u8
 延安2 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225829/index.m3u8
 榆林1 240,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225823/index.m3u8
+汉中1 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225813/index.m3u8
 汉中1 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226006/index.m3u8
 汉中2 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226007/index.m3u8
 汉中3 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226008/index.m3u8
