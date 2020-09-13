@@ -10,6 +10,7 @@ CCTV8 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index
 CCTV9 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV10 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV12 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8
 CCTV14 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV17 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 东方卫视 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
@@ -33,12 +34,11 @@ NewTV安徽 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790
 NewTV山东 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
 NewTV广东 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
 NewTV江西 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
-NewTV东北热剧 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225498/index.m3u8
 NewTV东北热剧 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV中国功夫 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 NewTV农业致富 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 NewTV惊悚悬疑 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NewTV搏击 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NewTV武搏世界 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 NewTV欢乐剧场 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 NewTV潮妈辣婆 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 NewTV炫舞未来 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
@@ -95,7 +95,6 @@ CCTV9 720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225595/index.m3
 CCTV10 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225596/index.m3u8
 CCTV11 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV12 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225598/index.m3u8
-CCTV13 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8
 CCTV14 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225600/index.m3u8
 CCTV14 720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
 CCTV15 576,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
