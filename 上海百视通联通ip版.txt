@@ -13,6 +13,7 @@ CCTV12 540,http://140.207.241.2:8080/live/program/live/cctv12/1300000/mnf.m3u8
 CCTV13 540,http://140.207.241.2:8080/live/program/live/cctvxw/1300000/mnf.m3u8
 CCTV14 1080,http://140.207.241.2:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
 CCTV15 540,http://140.207.241.2:8080/live/program/live/cctvyy/1300000/mnf.m3u8
+中国天气 576,http://140.207.241.2:8080/live/program/live/zgqx/1300000/mnf.m3u8
 上海ICS外语 1080,http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 上海东方影视 1080,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 上海五星体育 1080,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
@@ -72,14 +73,16 @@ SiTV法治天地 540,http://140.207.241.2:8080/live/program/live/fztd/1300000/mn
 SiTV金色频道 540,http://140.207.241.2:8080/live/program/live/jingsepd/1300000/mnf.m3u8
 SiTV七彩戏剧 540,http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
 SiTV东方财经 540,http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
-体育1 1080,http://140.207.241.2:8080/live/program/live/hdnba5/4000000/mnf.m3u8
-网校1 1080,http://140.207.241.2:8080/live/program/live/hdnba1/4000000/mnf.m3u8
-网校2 1080,http://140.207.241.2:8080/live/program/live/hdnba2/4000000/mnf.m3u8
-网校3 1080,http://140.207.241.2:8080/live/program/live/hdnba3/4000000/mnf.m3u8
-网校4 1080,http://140.207.241.2:8080/live/program/live/hdnba4/4000000/mnf.m3u8
-网校5 1080,http://140.207.241.2:8080/live/program/live/hdnba6/4000000/mnf.m3u8
-网校6 1080,http://140.207.241.2:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba5/4000000/mnf.m3u8
+百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba6/4000000/mnf.m3u8
+百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba7/4000000/mnf.m3u8
 
-放在最后，可替换地址
+放在最后，可替换地址 (两个CDN版又复活了)
+keonline.shanghai.liveplay.qq.com
+liveplay-kk.rtxapp.com
 183.207.255.190
-58.216.102.246/183.207.255.190
+112.25.48.68
