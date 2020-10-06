@@ -1,32 +1,13 @@
-有线新闻 1080+720+480,http://liveicm5.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
-有线新闻 1080,http://liveicm5.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
-有线新闻 720,http://liveicm5.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
-有线新闻 480,http://liveicm5.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-1.m3u8
-有线综合娱乐 1080+720+480,http://liveicm5.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
-有线综合娱乐 1080,http://liveicm5.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
-有线综合娱乐 720,http://liveicm5.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-2.m3u8
-有线综合娱乐 480,http://liveicm5.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
-有线财经资讯 1080+720+480,http://liveicm5.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
-有线财经资讯 1080,http://liveicm5.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
-有线财经资讯 720,http://liveicm5.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-2.m3u8
-有线财经资讯 480,http://liveicm5.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-1.m3u8
-C+频道 1080+720+480+240,http://livealima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
-C+频道 1080,http://livealima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
-C+频道 720,http://livealima.utvlive.top/livehls/MOB-U1-NO/01.m3u8
-C+频道 480,http://livealima.utvlive.top/livehls/MOB-U1-NO/04.m3u8
-C+频道 240,http://livealima.utvlive.top/livehls/MOB-U1-NO/02.m3u8
-赛马直击 1080+720+480,http://liveicm5.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f.m3u8
-赛马直击 1080,http://liveicm5.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f-3.m3u8
-赛马直击 720,http://liveicm5.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f-2.m3u8
-赛马直击 480,http://liveicm5.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f-1.m3u8
-
-赛马直击仅在有比赛项目时传输
-
-
-
-刚挂的地址，先留着，谁知道以后会不会再启用呢
-有线新闻 1080+720,http://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8
-有线综合娱乐 1080+720,http://liveima.utvlive.top/livehls/MOB-CN/index.m3u8
-有线财经资讯 1080+720,http://liveima.utvlive.top/livehls/MOB-NGW/index.m3u8
-C+频道 1080+720,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
-赛马直击 1080+720,http://liveima.utvlive.top/livehls/MOB-HR/index.m3u8==
+有线新闻 1080+720+480,http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8
+有线新闻 1080,http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8
+有线新闻 720,http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-2.m3u8
+有线新闻 480,http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-1.m3u8
+有线综合娱乐 1080+720+480,http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
+有线综合娱乐 1080,http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-3.m3u8
+有线综合娱乐 720,http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-2.m3u8
+有线综合娱乐 480,http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-1.m3u8
+有线财经资讯 1080+720+480,http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
+有线财经资讯 1080,http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-3.m3u8
+有线财经资讯 720,http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
+有线财经资讯 480,http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-1.m3u8
+澳亚卫视 480,http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
