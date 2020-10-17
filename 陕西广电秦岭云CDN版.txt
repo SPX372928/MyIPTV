@@ -1,14 +1,10 @@
-秦岭云现在前面要加ip才能看，比如112.13.209.106，不过失效很快。。。
+秦岭云现在前面要加ip才能看，比如124.227.184.49，不过失效很快。。。
 CCTV1 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226013/index.m3u8
 CCTV1 8M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 CCTV2 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
-CCTV3 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
 CCTV4 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
-CCTV5 8M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
 CCTV5+ 8M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
-CCTV6 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
 CCTV7 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
-CCTV8 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
 CCTV9 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/index.m3u8
 CCTV10 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
 CCTV11 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/index.m3u8
@@ -18,6 +14,7 @@ CCTV14 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3
 CCTV15 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
 CCTV17 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
 东方卫视 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
+云南卫视 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
 北京卫视 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
 吉林卫视 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
 四川卫视 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/index.m3u8
@@ -27,6 +24,7 @@ CCTV17 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3
 广东卫视 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225589/index.m3u8
 江苏卫视 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225504/index.m3u8
 江西卫视 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225599/index.m3u8
+河南卫视 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/index.m3u8
 浙江卫视 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225505/index.m3u8
 深圳卫视 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/index.m3u8
 湖南卫视 6M1080,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
@@ -88,6 +86,7 @@ CGTN 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225707/index.m3u8
 四川卫视 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225553/index.m3u8
 天津卫视 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225545/index.m3u8
 宁夏卫视 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225522/index.m3u8
+宁夏卫视 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225727/index.m3u8
 安徽卫视 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225539/index.m3u8
 山东卫视 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225540/index.m3u8
 山东教育卫视 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
@@ -171,9 +170,7 @@ CGTN 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225707/index.m3u8
 合阳3 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225860/index.m3u8
 吴堡 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225998/index.m3u8
 吴起 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225910/index.m3u8
-周至1 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225837/index.m3u8
 周至1 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225867/index.m3u8
-周至2 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225838/index.m3u8
 周至2 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225968/index.m3u8
 咸阳1 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225659/index.m3u8
 咸阳1 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225815/index.m3u8
@@ -283,8 +280,6 @@ CGTN 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225707/index.m3u8
 白河 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225921/index.m3u8
 眉县新闻综合 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225933/index.m3u8
 眉县经济生活 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225934/index.m3u8
-礼泉新闻 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225978/index.m3u8
-礼泉生活 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225979/index.m3u8
 神木1 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225893/index.m3u8
 神木2 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225991/index.m3u8
 米脂 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225895/index.m3u8
@@ -337,6 +332,7 @@ CCTV11 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225702/index.m3u8
 CCTV13 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225704/index.m3u8
 CCTV15 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225706/index.m3u8
 CGTN 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225708/index.m3u8
+中国教育1 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225710/index.m3u8
 云南卫视 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225716/index.m3u8
 内蒙古卫视 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225726/index.m3u8
 吉林卫视 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225718/index.m3u8
@@ -367,6 +363,12 @@ CGTN 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225708/index.m3u8
 汉中3 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226008/index.m3u8
 渭南新闻综合 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225819/index.m3u8
 铜川1 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225821/index.m3u8
+
+原高清频道
+CCTV3 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
+CCTV5 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+CCTV6 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
+CCTV8 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
 
 待确定
 黑屏 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225906/index.m3u8
