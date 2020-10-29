@@ -1,0 +1,13 @@
+广州南国都市 1080,http://120.221.226.226/aplay.gztv.com/sec/shenghuos.m3u8
+广州影视 1080,http://120.221.226.226/aplay.gztv.com/sec/yingshi.m3u8
+广州新闻 720,http://120.221.226.226/aplay.gztv.com/sec/xinwen.m3u8
+广州法治 720,http://120.221.226.226/aplay.gztv.com/sec/fazhi.m3u8
+广州竞赛 720,http://120.221.226.226/aplay.gztv.com/sec/jingsai.m3u8
+广州综合 720,http://120.221.226.226/aplay.gztv.com/sec/zhonghe.m3u8
+
+可替换ip
+120.221.176.176
+120.221.177.177
+120.221.226.226
+120.221.227.227
+120.221.244.44
