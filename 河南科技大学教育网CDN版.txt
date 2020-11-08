@@ -34,8 +34,13 @@ CCTV14 3M1080,http://hdtv.haust.edu.cn/hls/cctv14.m3u8
 CCTV14 3M1080,http://hdtv.haust.edu.cn/hls/cctv14hd.m3u8
 CCTV14 3M1080,http://hdtv.haust.edu.cn/hls/hls140.m3u8
 CCTV14 8M1080,http://hdtv.haust.edu.cn/hls/hls71a13.m3u8
+CCTV15 3M1080,http://hdtv.haust.edu.cn/hls/jlu_cctv15hd.m3u8
 CCTV17 3M1080,http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 CCTV17 8M1080,http://hdtv.haust.edu.cn/hls/hls73a8.m3u8
+CCTV兵器科技 3M1080,http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
+CCTV怀旧剧场 3M1080,http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
+CCTV第一剧场 3M1080,http://hdtv.haust.edu.cn/hls/dyjctv.m3u8
+CCTV风云足球 3M1080,http://hdtv.haust.edu.cn/hls/hls20.m3u8
 CGTN 8M1080,http://hdtv.haust.edu.cn/hls/hls67a43.m3u8
 中国教育1 3M1080,http://hdtv.haust.edu.cn/hls/cetv1.m3u8
 中国教育1 3M1080,http://hdtv.haust.edu.cn/hls/cetv1hd.m3u8
@@ -111,7 +116,7 @@ NNM爱映画 8M1080,http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
 湖南金鹰纪实 8M1080,http://hdtv.haust.edu.cn/hls/hls163.m3u8
 湖南金鹰纪实 8M1080,http://hdtv.haust.edu.cn/hls/hls75a26.m3u8
 熊猫频道 3M1080,http://hdtv.haust.edu.cn/hls/hls148.m3u8
-足球频道 3M1080,http://hdtv.haust.edu.cn/hls/zqhd.m3u8
+内蒙古足球 3M1080,http://hdtv.haust.edu.cn/hls/zqhd.m3u8
 CCTV1 576,http://hdtv.haust.edu.cn/hls/cctv1.m3u8
 CCTV1 576,http://hdtv.haust.edu.cn/hls/hls1.m3u8
 CCTV2 576,http://hdtv.haust.edu.cn/hls/cctv2.m3u8
@@ -136,15 +141,11 @@ CCTV13 576,http://hdtv.haust.edu.cn/hls/hls13.m3u8
 CCTV14 576,http://hdtv.haust.edu.cn/hls/hls14.m3u8
 CCTV15 576,http://hdtv.haust.edu.cn/hls/cctv15.m3u8
 CCTV15 576,http://hdtv.haust.edu.cn/hls/hls41.m3u8
-CCTV兵器科技 3M1080,http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
 CCTV兵器科技 576,http://hdtv.haust.edu.cn/hls/hls23.m3u8
 CCTV女性时尚 576,http://hdtv.haust.edu.cn/hls/hls44.m3u8
-CCTV怀旧剧场 3M1080,http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
 CCTV怀旧剧场 576,http://hdtv.haust.edu.cn/hls/hls94.m3u8
-CCTV第一剧场 3M1080,http://hdtv.haust.edu.cn/hls/dyjctv.m3u8
 CCTV老故事 576,http://hdtv.haust.edu.cn/hls/hls113.m3u8
 CCTV风云足球 576,http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
-CCTV风云足球 3M1080,http://hdtv.haust.edu.cn/hls/hls20.m3u8
 CCTV央视文化精品576,http://hdtv.haust.edu.cn/hls/hls61.m3u8
 CGTN 576,http://hdtv.haust.edu.cn/hls/cctv16.m3u8
 CGTN纪录 576,http://hdtv.haust.edu.cn/hls/hls67a44.m3u8
