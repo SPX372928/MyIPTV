@@ -1,5 +1,4 @@
-厦门卫视 720,https://live1.kxm.xmtv.cn/xmtv/tvzb/live.m3u8
-厦门卫视 720,https://live1.kxm.xmtv.cn/xmtv/playlist.m3u8
+厦门卫视 720,https://live1.kxm.xmtv.cn/xmtxmtv/playlist.m3u8
 厦门1 720,https://live1.kxm.xmtv.cn/xm1/tvzb/live.m3u8
 厦门1 720,https://live1.kxm.xmtv.cn/xm1/playlist.m3u8
 厦门2 720,https://live1.kxm.xmtv.cn/xm2/tvzb/live.m3u8
