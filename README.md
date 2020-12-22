@@ -14,7 +14,7 @@
 而对于能正常访问github pages的用户，[山东移动](https://spx372928.github.io/MyIPTV/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt)这种格式也可以用，只需修改后面的文件名即可  
 ### 关于扫源  
 那么多不同来源的地址，难免会失效，而我不可能每次都能及时更新，这里放几个给小白使用的工具链接，可以试着扫一下  
-- [ip端口扫描](https://www.52pojie.cn/forum.php?mod=viewthread&tid=510180) (初步筛选可用ip及端口)
+- [ip端口扫描终极版](https://pan.baidu.com/s/1mhQyxhm) (初步筛选可用ip及端口)
 - [在线正则生成批量链接](http://tools.jb51.net/aideddesign/ljscq) (不会正则，可以用在线的)
 - [在线文本比较](http://wenbenbijiao.renrensousuo.com/) (通过比较来确定同一套源的频道增减)
 - [IPTV Checker](http://www.downmsn.com/rjxz/23256.html) (初步检测http源，无条数限制)
