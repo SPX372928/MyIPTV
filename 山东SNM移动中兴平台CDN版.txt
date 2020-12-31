@@ -203,3 +203,5 @@ IPTV法制 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte
 阳信新闻综合 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001036/index.m3u8
 安丘新闻综合 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001015/index.m3u8
 诸城新闻综合 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001004/index.m3u8
+牟平新闻 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001076/index.m3u8
+牟平生活 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001077/index.m3u8
