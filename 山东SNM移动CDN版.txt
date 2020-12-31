@@ -153,7 +153,6 @@ IPTV法制 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.
 爱生活 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000639/index.m3u8
 四海钓鱼 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000640/index.m3u8
 江苏财富天下 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
-北广优优宝贝 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000641/index.m3u8
 车迷频道 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000645/index.m3u8
 江苏优漫卡通 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
 上海哈哈炫动 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
@@ -185,6 +184,8 @@ IPTV法制 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.
 郓城新闻 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
 齐河新闻 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
 章丘1 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001073/index.m3u8
+宁阳1 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001071/index.m3u8
+梁山新闻综合 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001075/index.m3u8
 济南商务 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000066/index.m3u8
 济南图文 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000246/index.m3u8
 济南娱乐 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000065/index.m3u8
@@ -204,7 +205,6 @@ IPTV法制 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.
 临沂农科 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000121/index.m3u8
 兰陵综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001032/index.m3u8
 冠县综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8
-商河综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8
 定陶1 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001063/index.m3u8
 平阴综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001050/index.m3u8
 新泰乡村 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001066/index.m3u8
@@ -237,6 +237,7 @@ IPTV法制 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.
 长清新闻 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
 阳信新闻综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001036/index.m3u8
 高青综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001023/index.m3u8
+宁阳2 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001072/index.m3u8
 山东居家购物 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
 聚鲨环球精选 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000706/index.m3u8
 江苏好享购物 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000707/index.m3u8
