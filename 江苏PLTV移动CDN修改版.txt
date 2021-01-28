@@ -229,7 +229,7 @@ NewTV明星大片 4M1080,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/22
 北京冬奥纪实 8M1080,http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221227699/index.m3u8
 未知 2M1080,http://183.207.248.108/ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
 未知 4M1080,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
-未知新闻 4M1080,http://183.207.249.238/ott.js.chinamobile.com/PLTV/3/224/3221227870/index.m3u8
+高淳新闻 4M1080,http://183.207.249.238/ott.js.chinamobile.com/PLTV/3/224/3221227870/index.m3u8
 东海国学与家道 2M1080,http://183.207.249.166/ott.js.chinamobile.com/PLTV/3/224/3221227736/index.m3u8
 东海文娱 2M1080,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227739/index.m3u8
 东海新闻 2M1080,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227792/index.m3u8
