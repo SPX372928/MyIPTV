@@ -10,10 +10,11 @@ CCTV10 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 CCTV12 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000322/index.m3u8
 CCTV14 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000323/index.m3u8
 CCTV17 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8
+中国教育1 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000076/index.m3u8
 中国交通 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000073/index.m3u8
 山东齐鲁 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000313/index.m3u8
 山东体育 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000315/index.m3u8
-山东公共 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000314/index.m3u8
+山东新闻 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000314/index.m3u8
 山东农科 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000339/index.m3u8
 山东少儿 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000340/index.m3u8
 山东影视 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000337/index.m3u8
@@ -23,13 +24,15 @@ CCTV17 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 东南卫视 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000310/index.m3u8
 东方卫视 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8
 北京卫视 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8
+四川卫视 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000348/index.m3u8
 天津卫视 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000327/index.m3u8
 安徽卫视 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000328/index.m3u8
 山东卫视 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000301/index.m3u8
 广东卫视 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000307/index.m3u8
+江苏卫视 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000304/index.m3u8
 河北卫视 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000330/index.m3u8
 浙江卫视 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000305/index.m3u8
-江苏卫视 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000304/index.m3u8
+海南卫视 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000347/index.m3u8
 深圳卫视 7M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000308/index.m3u8
 湖北卫视 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000325/index.m3u8
 湖南卫视 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8
@@ -80,7 +83,7 @@ CGTN 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com//
 中国教育4 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000070/index.m3u8
 山东齐鲁 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000052/index.m3u8
 山东体育 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000057/index.m3u8
-山东公共 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000053/index.m3u8
+山东新闻 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000053/index.m3u8
 山东农科 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000058/index.m3u8
 山东国际 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000060/index.m3u8
 山东少儿 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000059/index.m3u8
@@ -144,7 +147,6 @@ IPTV法制 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte
 家庭影院 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000635/index.m3u8
 国学 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000636/index.m3u8
 爱生活 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000639/index.m3u8
-四海钓鱼 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000640/index.m3u8
 车迷频道 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000645/index.m3u8
 江苏财富天下 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000607/index.m3u8
 江苏优漫卡通 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000049/index.m3u8
