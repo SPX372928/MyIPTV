@@ -81,7 +81,8 @@ SiTV东方财经 540,http://140.207.241.2:8080/live/program/live/dfcj/1300000/mn
 百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba6/4000000/mnf.m3u8
 百事通体育 1080,http://140.207.241.2:8080/live/program/live/hdnba7/4000000/mnf.m3u8
 
-放在最后，可替换地址 (两个CDN版又复活了)
+放在最后，可替换地址
+shbu.live.bestvcdn.com.cn:8080
 keonline.shanghai.liveplay.qq.com
 liveplay-kk.rtxapp.com
 183.207.255.190
