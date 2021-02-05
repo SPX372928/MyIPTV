@@ -84,6 +84,6 @@ SiTV东方财经 540,http://140.207.241.2:8080/live/program/live/dfcj/1300000/mn
 放在最后，可替换地址
 shbu.live.bestvcdn.com.cn:8080
 keonline.shanghai.liveplay.qq.com
-liveplay-kk.rtxapp.com
+112.132.209.46/liveplay-kk.rtxapp.com
 183.207.255.190
 112.25.48.68
