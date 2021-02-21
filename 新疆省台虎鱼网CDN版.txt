@@ -1,0 +1,11 @@
+新疆卫视 2M1080,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
+新疆2维语新闻综合 720,http://livehyw5.chinamcache.com/hyw/zb02.m3u8
+新疆3哈语新闻综合 720,http://livehyw5.chinamcache.com/hyw/zb03.m3u8
+新疆4汉语综艺 720,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
+新疆5维语综艺 720,http://livehyw5.chinamcache.com/hyw/zb05.m3u8
+新疆7汉语经济生活 720,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
+新疆8哈语综艺 720,http://livehyw5.chinamcache.com/hyw/zb08.m3u8
+新疆9维语经济生活 720,http://livehyw5.chinamcache.com/hyw/zb09.m3u8
+新疆10汉语体育健康 720,http://livehyw5.chinamcache.com/hyw/zb010.m3u8
+新疆11汉语法制信息 720,http://livehyw5.chinamcache.com/hyw/zb011.m3u8
+新疆12少儿 720,http://livehyw5.chinamcache.com/hyw/zb012.m3u8
