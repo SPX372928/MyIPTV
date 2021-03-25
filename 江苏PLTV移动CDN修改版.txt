@@ -3,9 +3,11 @@ SiTV欢笑剧场 12M2160,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/22
 4K花园生活 24M2160,http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
 4K花园娱乐 24M2160,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 4K花园影视 24M2160,http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文 10M720,http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰资讯 10M1080,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228016/index.m3u8
+凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰资讯 10M720,http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港 10M720,http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
 CCTV1 3M1080,http://183.207.248.171/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8
 CCTV1 4M1080,http://183.207.248.166/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
@@ -18,7 +20,7 @@ CCTV1 8M1080HEVC,http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/322122
 CCTV1 8M1080,http://183.207.249.102/ott.js.chinamobile.com/PLTV/3/224/3221227431/index.m3u8
 CCTV1 8M1080,http://183.207.248.139/ott.js.chinamobile.com/PLTV/3/224/3221227462/index.m3u8
 CCTV1 8M1080,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
-CCTV1 10M1080,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228013/index.m3u8
+CCTV1 10M1080,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228025/index.m3u8
 CCTV1 Max16M1080,http://183.207.248.142/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8
 CCTV2 3M1080,http://183.207.248.203/ott.js.chinamobile.com/PLTV/3/224/3221226993/index.m3u8
 CCTV2 4M1080,http://183.207.248.208/ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8
@@ -286,6 +288,7 @@ CCTV发现之旅 576,http://183.207.248.135/ott.js.chinamobile.com/PLTV/3/224/32
 CCTV女性时尚 576,http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 CCTV老故事 576,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
 CCTV高尔夫网球 3R576,http://183.207.249.235/ott.js.chinamobile.com/PLTV/3/224/3221226809/index.m3u8
+CGTN 576,http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221228095/index.m3u8
 CGTN 576,http://183.207.249.136/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
 CGTN纪录 3.5M576,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8
 中国教育1 3.5M576,http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227560/index.m3u8
@@ -309,6 +312,7 @@ CGTN纪录 3.5M576,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221
 南方卫视 576,http://183.207.249.110/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 厦门卫视 4M576,http://183.207.248.104/ott.js.chinamobile.com/PLTV/3/224/3221227604/index.m3u8
 厦门卫视 576,http://183.207.249.198/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
+吉林卫视 4M576,http://223.110.236.4/ott.js.chinamobile.com/PLTV/3/224/3221228107/index.m3u8
 吉林卫视 576,http://183.207.249.235/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8
 四川卫视 576,http://183.207.248.237/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
 四川卫视 576,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227556/index.m3u8
@@ -348,7 +352,7 @@ CGTN纪录 3.5M576,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221
 湖南卫视 576,http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221225854/index.m3u8
 甘肃卫视 3.5M576,http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
 甘肃卫视 576,http://183.207.249.103/ott.js.chinamobile.com/PLTV/3/224/3221225846/index.m3u8
-西藏卫视 4M1576,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
+西藏卫视 4M576,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
 西藏卫视 576,http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221226376/index.m3u8
 贵州卫视 576,http://183.207.248.135/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
 贵州卫视 576,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227551/index.m3u8
@@ -358,6 +362,7 @@ CGTN纪录 3.5M576,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221
 陕西卫视 3.5M576,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227583/index.m3u8
 陕西卫视 576,http://183.207.249.236/ott.js.chinamobile.com/PLTV/3/224/3221227022/index.m3u8
 青海卫视 576,http://183.207.249.103/ott.js.chinamobile.com/PLTV/3/224/3221225783/index.m3u8
+海南卫视 4M576,http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221228101/index.m3u8
 黑龙江卫视 576,http://183.207.249.235/ott.js.chinamobile.com/PLTV/3/224/3221226374/index.m3u8
 新疆兵团卫视 4M576,http://183.207.249.230/ott.js.chinamobile.com/PLTV/3/224/3221227654/index.m3u8
 新疆兵团卫视 576,http://183.207.249.199/ott.js.chinamobile.com/PLTV/3/224/3221227025/index.m3u8
@@ -369,6 +374,7 @@ CGTN纪录 3.5M576,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221
 四川康巴卫视 3.5M576,http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227645/index.m3u8
 四川康巴卫视 576,http://183.207.248.109/ott.js.chinamobile.com/PLTV/3/224/3221227651/index.m3u8
 四川康巴卫视 576,http://183.207.248.208/ott.js.chinamobile.com/PLTV/3/224/3221227008/index.m3u8
+西藏藏语卫视 576,http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221228022/index.m3u8
 NNM家庭理财 576,http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227011/index.m3u8
 上海哈哈炫动 3,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227586/index.m3u8
 上海哈哈炫动 576,http://183.207.248.141/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
@@ -387,6 +393,7 @@ NNM家庭理财 576,http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/322
 北京卡酷少儿 576,http://183.207.248.137/ott.js.chinamobile.com/PLTV/3/224/3221226305/index.m3u8
 湖南金鹰卡通 3.5M576,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227630/index.m3u8
 湖南金鹰卡通 576,http://183.207.248.174/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+湖南金鹰纪实 4M576,http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221228110/index.m3u8
 湖北休闲指南 576,http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227014/index.m3u8
 广东高尔夫 576,http://183.207.248.167/ott.js.chinamobile.com/PLTV/3/224/3221227033/index.m3u8
 吉林篮球 576,http://183.207.248.237/ott.js.chinamobile.com/PLTV/3/224/3221227023/index.m3u8
@@ -429,6 +436,7 @@ NNM家庭理财 576,http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/322
 北京家有购物 720,http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221226593/index.m3u8
 北京家有购物 720,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227649/index.m3u8
 北京家有购物 720,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227705/index.m3u8
+北京家有购物 576,http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228063/index.m3u8
 聚鲨环球精选 576,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227529/index.m3u8
 山西优购物 576,http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227582/index.m3u8
 央广购物 720,http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221227769/index.m3u8
