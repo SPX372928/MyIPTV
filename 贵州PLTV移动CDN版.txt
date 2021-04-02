@@ -11,7 +11,6 @@ CCTV3 2.5M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226040/1/i
 CCTV3 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
 CCTV4 4M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
 CCTV4 4M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226129/1/index.m3u8?fmt=ts2hls
-CCTV4 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225744/1/index.m3u8?fmt=ts2hls
 CCTV5 2.5M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/1/index.m3u8?fmt=ts2hls
 CCTV5 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
 CCTV6 2.5M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226046/1/index.m3u8?fmt=ts2hls
@@ -176,7 +175,6 @@ NNM游戏竞技 576,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122616
 桐梓 576,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226095/1/index.m3u8?fmt=ts2hls
 贵州2 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225682/1/index.m3u8?fmt=ts2hls
 贵州2 4M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226119/1/index.m3u8?fmt=ts2hls
-贵州2 8M1080,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226139/1/index.m3u8?fmt=ts2hls
 贵州3 576,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225704/1/index.m3u8?fmt=ts2hls
 贵州3 320,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226092/1/index.m3u8?fmt=ts2hls
 贵州3 320,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226125/1/index.m3u8?fmt=ts2hls
