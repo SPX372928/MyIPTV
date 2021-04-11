@@ -63,10 +63,6 @@ SiTV极速汽车限免 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_c
 SiTV法治天地限免 6M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002010/index.m3u8
 SiTV金色频道限免 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002018/index.m3u8
 SiTV生活时尚限免 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002019/index.m3u8
-天天剧场限免 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002008/index.m3u8
-天天探索限免 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002009/index.m3u8
-天天影院限免 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002011/index.m3u8
-天天综合限免 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002020/index.m3u8
 CCTV1 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000001/index.m3u8
 CCTV2 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000002/index.m3u8
 CCTV3 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000003/index.m3u8
@@ -171,6 +167,7 @@ IPTV法制 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte
 荣成综合 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001053/index.m3u8
 青州文化旅游 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001057/index.m3u8
 莱西综合 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001067/index.m3u8
+即墨新闻综合 8M1080,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001080/index.m3u8
 五莲新闻综合 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001068/index.m3u8
 平度新闻综合 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001054/index.m3u8
 栖霞综合 576,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001055/index.m3u8
