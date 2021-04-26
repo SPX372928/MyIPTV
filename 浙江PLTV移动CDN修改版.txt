@@ -347,9 +347,9 @@ CGTN 576,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224
 北京家有购物 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229044/index.m3u8
 直播片段 4M1080,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230923/index.m3u8
 直播片段 8M1080,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231316/index.m3u8
-直播 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230622/index.m3u8
-直播 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230662/index.m3u8
-直播 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231220/index.m3u8
+直播淳安千岛湖 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230622/index.m3u8
+直播杭州西湖 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230662/index.m3u8
+直播江南龙门湾 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231220/index.m3u8
 直播下姜村 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230668/index.m3u8
 直播临安天目山 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230631/index.m3u8
 直播千岛湖龙山岛 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230653/index.m3u8
