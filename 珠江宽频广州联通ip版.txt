@@ -148,7 +148,8 @@ CCTV14 4M1080+720+432+360,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_i
 深圳卫视 4M1080+720+432+360,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=22&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 湖北卫视 4M1080+720+432+360,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=37&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 湖南卫视 4M1080+720+432+360,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=1&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-贵州卫视 4M1080+720+432+360,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=44&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8TVB翡翠台 576+480+240,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+贵州卫视 4M1080+720+432+360,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=44&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB翡翠台 576+480+240,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 北京冬奥纪实 4M1080+720+432,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=45&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 凤凰中文 576+480+240,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=40&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东南方卫视 576+480+240,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=19&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
