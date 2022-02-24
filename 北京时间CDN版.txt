@@ -1,0 +1,10 @@
+北京冬奥纪实 Max6M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+北京卫视 Max6M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
+北京影视 Max4M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
+北京新闻 Max6M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
+北京生活 Max4M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
+北京财经 Max6M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
+北京青年 Max4M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
+卡酷少儿 Max6M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+北京文艺 720,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
+北京科教 720,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
