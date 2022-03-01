@@ -63,6 +63,12 @@ CCTV16,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000364/index.m3u8
 CCTV17,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 CCTV17,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8
 CCTV17,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
+CGTN,http://39.134.144.6:8089/PLTV/88888888/224/3221226320/index.m3u8
+CGTN,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000352/index.m3u8
+CGTN,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
+CGTN纪录,http://39.134.144.6:8089/PLTV/88888888/224/3221226401/index.m3u8
+CGTN纪录,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000353/index.m3u8
+CGTN纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 CCTV世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 CCTV世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 CCTV兵器科技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
@@ -127,7 +133,7 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122567
 东南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226278/index.m3u8
 东南卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000310/index.m3u8
 东南卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
-海峡卫视,rtsp://183.251.61.210/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
+海峡卫视,rtsp://183.252.176.54/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 厦门卫视,http://39.135.55.7:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 东方卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226347/index.m3u8
 东方卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8
@@ -188,7 +194,7 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122567
 重庆卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000341/index.m3u8
 重庆卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-云南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
+云南卫视,rtsp://183.252.176.54/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
 云南卫视,http://39.130.202.76:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 陕西卫视,http://121.51.94.53/livepull.sxiptv.cn/live/shanxiweishihd.m3u8
 青海卫视,http://live.geermurmt.com/qhws/playlist.m3u8
