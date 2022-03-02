@@ -98,7 +98,7 @@ NewTV金牌综艺 4M1080,http://[2409:8087:5c00:10:5::99]/cdnrrs.gx.chinamobile.
 黑莓电影 4M1080,http://[2409:8087:5c00:10:5::72]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225740/index.m3u8
 哒啵赛事 4M1080,http://[2409:8087:5c00:10:5::88]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225760/index.m3u8
 来宾综合 3M1080,http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225903/index.m3u8
-榆林新闻综合 8M1080,http://[2409:8087:5c00:10:5::82]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225900/index.m3u8
+玉林新闻综合 8M1080,http://[2409:8087:5c00:10:5::82]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225900/index.m3u8
 玉林公共 8M1080,http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
 百色公共 8M1080,http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225835/index.m3u8
 百色综合 8M1080,http://[2409:8087:5c00:10:5::154]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225877/index.m3u8
