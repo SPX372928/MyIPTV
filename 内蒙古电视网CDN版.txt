@@ -1,35 +1,36 @@
-抽风严重,未来可能要代理
-内蒙古卫视 1080,http://live.m2oplus.nmtv.cn/1/playlist.m3u8
-内蒙古卫视 1080,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
-内蒙古蒙语卫视 1080,http://live5.m2oplus.nmtv.cn/3/playlist.m3u8
-内蒙古蒙语卫视 1080,http://live5.m2oplus.nmtv.cn/3/sd/live.m3u8
-内蒙古蒙语文化 1080,http://live5.m2oplus.nmtv.cn/5/playlist.m3u8
-内蒙古蒙语文化 1080,http://live5.m2oplus.nmtv.cn/5/sd/live.m3u8
-内蒙古经济生活 1080,http://live5.m2oplus.nmtv.cn/2/playlist.m3u8
-内蒙古经济生活 1080,http://live5.m2oplus.nmtv.cn/2/sd/live.m3u8
-内蒙古农牧 1080,http://live4.m2oplus.nmtv.cn/6/playlist.m3u8
-内蒙古农牧 1080,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
-内蒙古少儿 1080,http://live5.m2oplus.nmtv.cn/4/playlist.m3u8
-内蒙古少儿 1080,http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
-内蒙古文体娱乐 1080,http://live4.m2oplus.nmtv.cn/8/playlist.m3u8
-内蒙古文体娱乐 1080,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
-内蒙古新闻综合 1080,http://live.m2oplus.nmtv.cn/7/playlist.m3u8
-内蒙古新闻综合 1080,http://live.m2oplus.nmtv.cn/7/sd/live.m3u8
-交通之声广播,http://live3.m2oplus.nmtv.cn/aac_jtzs/playlist.m3u8
-交通之声广播,http://live3.m2oplus.nmtv.cn/aac_jtzs/sq/live.m3u8
-农村牧区绿野之声广播,http://live.m2oplus.nmtv.cn/aac_ncmqgb/playlist.m3u8
-农村牧区绿野之声广播,http://live.m2oplus.nmtv.cn/aac_ncmqgb/sq/live.m3u8
-新闻广播,http://live3.m2oplus.nmtv.cn/aac_xwgb/playlist.m3u8
-新闻广播,http://live3.m2oplus.nmtv.cn/aac_xwgb/sq/live.m3u8
-汉语综合广播,http://live3.m2oplus.nmtv.cn/aac_hyzh/playlist.m3u8
-汉语综合广播,http://live3.m2oplus.nmtv.cn/aac_hyzh/sq/live.m3u8
-经济生活广播,http://live3.m2oplus.nmtv.cn/aac_jjshgb/playlist.m3u8
-经济生活广播,http://live3.m2oplus.nmtv.cn/aac_jjshgb/sq/live.m3u8
-草原之声广播,http://live4.m2oplus.nmtv.cn/aac_cyzsgb/playlist.m3u8
-草原之声广播,http://live4.m2oplus.nmtv.cn/aac_cyzsgb/sq/live.m3u8
-蒙古语广播,http://live.m2oplus.nmtv.cn/aac_mgygb/playlist.m3u8
-蒙古语广播,http://live.m2oplus.nmtv.cn/aac_mgygb/sq/live.m3u8
-评书曲艺广播,http://live.m2oplus.nmtv.cn/aac_psqy/playlist.m3u8
-评书曲艺广播,http://live.m2oplus.nmtv.cn/aac_psqy/sq/live.m3u8
-音乐之声广播,http://live3.m2oplus.nmtv.cn/aac_yyzs/playlist.m3u8
-音乐之声广播,http://live3.m2oplus.nmtv.cn/aac_yyzs/sq/live.m3u8
+内蒙古卫视 1080,http://live9.m2oplus.nmtv.cn/nmgws/playlist.m3u8
+内蒙古卫视 1080,http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
+内蒙古蒙语卫视 1080,http://live9.m2oplus.nmtv.cn/nmgmgyws/playlist.m3u8
+内蒙古蒙语卫视 1080,http://live9.m2oplus.nmtv.cn/nmgmgyws/hd/live.m3u8
+内蒙古蒙语文化 1080,http://live9.m2oplus.nmtv.cn/nmgmgywh/playlist.m3u8
+内蒙古蒙语文化 1080,http://live9.m2oplus.nmtv.cn/nmgmgywh/hd/live.m3u8
+内蒙古经济生活 1080,http://live10.m2oplus.nmtv.cn/jjsh/playlist.m3u8
+内蒙古经济生活 1080,http://live10.m2oplus.nmtv.cn/jjsh/hd/live.m3u8
+内蒙古农牧 1080,http://live11.m2oplus.nmtv.cn/nmpd/playlist.m3u8
+内蒙古农牧 1080,http://live11.m2oplus.nmtv.cn/nmpd/hd/live.m3u8
+内蒙古少儿 1080,http://live11.m2oplus.nmtv.cn/sepd/playlist.m3u8
+内蒙古少儿 1080,http://live11.m2oplus.nmtv.cn/sepd/hd/live.m3u8
+内蒙古文体娱乐 1080,http://live10.m2oplus.nmtv.cn/wtyl/playlist.m3u8
+内蒙古文体娱乐 1080,http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8
+内蒙古新闻综合 1080,http://live10.m2oplus.nmtv.cn/xwzh/playlist.m3u8
+内蒙古新闻综合 1080,http://live10.m2oplus.nmtv.cn/xwzh/hd/live.m3u8
+内蒙古三佳购物 576,http://live11.m2oplus.nmtv.cn/sjdsgw/playlist.m3u8
+内蒙古三佳购物 576,http://live11.m2oplus.nmtv.cn/sjdsgw/sd/live.m3u8
+交通之声广播,http://live3.m2oplus.nmtv.cn/aac_Njtzs/playlist.m3u8
+交通之声广播,http://live3.m2oplus.nmtv.cn/aac_Njtzs/sq/live.m3u8
+农村牧区广播,http://live3.m2oplus.nmtv.cn/aac_Nncmq/playlist.m3u8
+农村牧区广播,http://live3.m2oplus.nmtv.cn/aac_Nncmq/sq/live.m3u8
+新闻广播,http://live7.m2oplus.nmtv.cn/aac_Nxwgb/playlist.m3u8
+新闻广播,http://live7.m2oplus.nmtv.cn/aac_Nxwgb/sq/live.m3u8
+新闻综合广播,http://live7.m2oplus.nmtv.cn/aac_Nxwzh/playlist.m3u8
+新闻综合广播,http://live7.m2oplus.nmtv.cn/aac_Nxwzh/sq/live.m3u8
+经济生活广播,http://live3.m2oplus.nmtv.cn/aac_Njjsh/playlist.m3u8
+经济生活广播,http://live3.m2oplus.nmtv.cn/aac_Njjsh/sq/live.m3u8
+草原之声广播,http://live3.m2oplus.nmtv.cn/aac_Ncyzs/playlist.m3u8
+草原之声广播,http://live3.m2oplus.nmtv.cn/aac_Ncyzs/sq/live.m3u8
+蒙古语广播,http://live3.m2oplus.nmtv.cn/aac_Nmgygb/playlist.m3u8
+蒙古语广播,http://live3.m2oplus.nmtv.cn/aac_Nmgygb/sq/live.m3u8
+评书曲艺广播,http://live3.m2oplus.nmtv.cn/aac_Npsqy/playlist.m3u8
+评书曲艺广播,http://live3.m2oplus.nmtv.cn/aac_Npsqy/sq/live.m3u8
+音乐之声广播,http://live3.m2oplus.nmtv.cn/aac_Nyyzs/playlist.m3u8
+音乐之声广播,http://live3.m2oplus.nmtv.cn/aac_Nyyzs/sq/live.m3u8
