@@ -1,4 +1,4 @@
-4K测试 20M2160,http://[2409:8087:1070:301:2026::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/index.m3u8?fmt=ts2hls
+爱上4K 20M2160,http://[2409:8087:1070:301:2026::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/index.m3u8?fmt=ts2hls
 CCTV16 46M2160,http://[2409:8087:1030:301:2025::28]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
 全部频道收视排行榜TOP10 6M1080,http://[2409:8087:1050:301:2026::18]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225936/index.m3u8?fmt=ts2hls
 卫视频道收视排行榜TOP10 6M1080,http://[2409:8087:1050:301:2026::15]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225938/index.m3u8?fmt=ts2hls
