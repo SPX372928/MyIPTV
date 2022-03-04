@@ -4,6 +4,7 @@
 凤凰资讯,http://183.207.249.143/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 凤凰香港,http://183.207.248.71/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港,http://183.207.249.208/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 CCTV1,http://39.134.144.6:8089/PLTV/88888888/224/3221225859/index.m3u8
 CCTV1,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8
 CCTV1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
@@ -22,11 +23,12 @@ CCTV4欧洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u
 CCTV4美洲,http://39.134.144.6:8089/PLTV/88888888/224/3221226395/index.m3u8
 CCTV4美洲,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8
 CCTV4美洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
+CCTV5,http://39.134.144.6:8089/PLTV/88888888/224/3221226425/index.m3u8
+CCTV5,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
+CCTV5,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000360/index.m3u8
 CCTV5+,http://39.134.144.6:8089/PLTV/88888888/224/3221225781/index.m3u8
 CCTV5+,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8
 CCTV5+,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
-CCTV5,http://39.134.144.6:8089/PLTV/88888888/224/3221226425/index.m3u8
-CCTV5,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
 CCTV6,http://39.134.144.6:8089/PLTV/88888888/224/3221226427/index.m3u8
 CCTV6,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000361/index.m3u8
 CCTV6,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
@@ -153,6 +155,7 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122567
 广东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226213/index.m3u8
 广东卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000307/index.m3u8
 广东卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225986/index.m3u8
 广西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 江苏卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226211/index.m3u8
 江苏卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000304/index.m3u8
@@ -201,9 +204,12 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122567
 山西卫视,http://httpdvb.slave.shuliyun.com:13164/playurl?playtype=live&protocol=http&accesstoken=GC19726C7V21307D1T6B005F28JD9B307ABM7B62413DICAB7991BK98BDB0&programid=4200000166&playtoken=31607OTIOOLEXHT10
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8
 内蒙古卫视,http://[2409:8087:1020:301:2026::17]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/index.m3u8?fmt=ts2hls
+内蒙古卫视,http://live9.m2oplus.nmtv.cn/nmgws/playlist.m3u8
+内蒙古卫视,http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
 黑龙江卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226148/index.m3u8
 黑龙江卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8
 黑龙江卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
+三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 三沙卫视,http://pull2.ssws.tv/live/SswsTV20210803.m3u8
 湖南快乐垂钓,http://39.134.144.6:8089/PLTV/88888888/224/3221226350/index.m3u8
 湖南快乐垂钓,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000648/index.m3u8
@@ -221,6 +227,7 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122567
 河南武术世界,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000657/index.m3u8
 河南武术世界,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
 淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKeBjD+fZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng==,,END
+峨眉电影,http://[240e:9f:c04f:1::2]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -232,3 +239,5 @@ Hot欧美影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江民生休闲,http://yd-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲,http://yd-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+经典音乐广播101.8,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
