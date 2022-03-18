@@ -1,6 +1,7 @@
 纯享4K 20M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 CCTV16 26M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3u8?fmt=ts2hls
 CCTV1 4M1080HEVC,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226221/index.m3u8
+CCTV1 4M1080HEVC,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226225/index.m3u8
 CCTV1 4M/8M/4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
 CCTV1 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
@@ -39,6 +40,8 @@ CCTV14 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/i
 CCTV14 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
 CCTV14 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
 CCTV15 3.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV16 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226230/index.m3u8
+CCTV16 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
 CCTV16 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls
 CCTV17 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
 CCTV17 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
@@ -143,6 +146,11 @@ NewTV金牌综艺 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3
 哒啵赛事 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
 哒啵赛事 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225749/index.m3u8
 哒啵赛事 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225750/index.m3u8
+咪咕视频 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226235/index.m3u8
+咪咕视频 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226238/index.m3u8
+咪咕视频 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8
+咪咕视频 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226241/index.m3u8
+咪咕视频 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226243/index.m3u8
 北京家有购物 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226190/index.m3u8
 江苏好享购物 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225973/index.m3u8
 江西风尚购物 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225970/index.m3u8
@@ -154,6 +162,10 @@ NewTV金牌综艺 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3
 江西新闻 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
 江西经济生活 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
 吉州 3M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225679/index.m3u8
+南昌新闻综合 2.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226223/index.m3u8
+南昌都市 2.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226226/index.m3u8
+南昌资讯 2.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226228/index.m3u8
+南昌公共 2.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226231/index.m3u8
 CCTV1 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225573/index.m3u8?fmt=ts2hls
 CCTV1 720,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225630/index.m3u8
 CCTV2 576,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225572/index.m3u8?fmt=ts2hls
