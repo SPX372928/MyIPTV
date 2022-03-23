@@ -38,6 +38,7 @@ CGTN阿语 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/ind
 东南卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
 东方卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
 北京卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
+吉林卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8
 四川卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000348/index.m3u8
 天津卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
 安徽卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
@@ -58,6 +59,8 @@ CGTN阿语 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/ind
 辽宁卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
 重庆卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8
 黑龙江卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
+上海纪实人文 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
+湖南金鹰纪实 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
 湖南快乐垂钓 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
 湖南茶 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
 河南文物宝库 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
@@ -85,6 +88,7 @@ CCTV13 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000013/index.m3u8
 CCTV14 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000014/index.m3u8
 CCTV15 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000015/index.m3u8
 CGTN 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
+中国教育2 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
 中国教育4 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000070/index.m3u8
 山东齐鲁 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000052/index.m3u8
 山东体育 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000057/index.m3u8
@@ -124,6 +128,9 @@ CGTN 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
 青海卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000042/index.m3u8
 黑龙江卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000027/index.m3u8
 新疆兵团卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000071/index.m3u8
+陕西农林卫视 4M576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
+海南三沙卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
+厦门卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000075/index.m3u8
 NNM家庭理财 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000654/index.m3u8
 NNM新动漫 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000659/index.m3u8
 NNM网络棋牌 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000660/index.m3u8
@@ -134,6 +141,7 @@ NNM网络棋牌 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000660/i
 北广优优宝贝 3.5M576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000641/index.m3u8
 北广四海钓鱼 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000640/index.m3u8
 北广车迷 3M576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000645/index.m3u8
+广东嘉佳卡通 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000074/index.m3u8
 江苏优漫卡通 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
 江苏财富天下 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
 江苏靓妆 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000653/index.m3u8
@@ -148,6 +156,7 @@ NNM网络棋牌 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000660/i
 临沂综合 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8
 兖州新闻 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
 兰陵综合 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001032/index.m3u8
+兰陵公共 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001095/index.m3u8
 单县综合 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001079/index.m3u8
 商河综合 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8
 嘉祥新闻综合 5M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001016/index.m3u8
