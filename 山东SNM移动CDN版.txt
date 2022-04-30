@@ -43,7 +43,7 @@ CGTN阿语 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/ind
 天津卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
 安徽卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
 山东卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
-山东卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001094/index.m3u8
+山东卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001099/index.m3u8
 广东卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
 江苏卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
 江西卫视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8
@@ -131,6 +131,7 @@ CGTN 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
 陕西农林卫视 4M576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
 海南三沙卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
 厦门卫视 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000075/index.m3u8
+SiTV都市剧场 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000630/index.m3u8
 NNM家庭理财 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000654/index.m3u8
 NNM新动漫 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000659/index.m3u8
 NNM网络棋牌 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000660/index.m3u8
@@ -151,12 +152,12 @@ NNM网络棋牌 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000660/i
 生态环境 3M576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000644/index.m3u8
 济南新闻综合 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
 济南教育 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000069/index.m3u8
-东阿1 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001093/index.m3u8
 东平新闻 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
+东阿1 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001093/index.m3u8
 临沂综合 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8
+临沭1 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001094/index.m3u8
 兖州新闻 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
 兰陵综合 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001032/index.m3u8
-兰陵公共 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001095/index.m3u8
 单县综合 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001079/index.m3u8
 商河综合 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8
 嘉祥新闻综合 5M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001016/index.m3u8
@@ -178,6 +179,7 @@ NNM网络棋牌 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000660/i
 梁山新闻综合 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001075/index.m3u8
 武城新闻综合 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001059/index.m3u8
 武城综艺影视 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001060/index.m3u8
+沂水1 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001098/index.m3u8
 泰安公共 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8
 泰安综合 5M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
 济宁综合 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000240/index.m3u8
@@ -195,6 +197,8 @@ NNM网络棋牌 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000660/i
 金乡新闻 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001034/index.m3u8
 陵城新闻 7M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001082/index.m3u8
 齐河新闻 8M1080,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
+沂南综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001096/index.m3u8
+沂南温泉旅游 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001097/index.m3u8
 济南商务 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000066/index.m3u8
 济南娱乐 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000065/index.m3u8
 济南少儿 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000067/index.m3u8
@@ -209,6 +213,7 @@ NNM网络棋牌 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000660/i
 东营新闻综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000226/index.m3u8
 临沂公共 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000256/index.m3u8
 临沂农科 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000121/index.m3u8
+兰陵公共 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001095/index.m3u8
 冠县综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8
 宁阳2 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001072/index.m3u8
 平阴综合 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001050/index.m3u8
