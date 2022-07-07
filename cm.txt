@@ -145,7 +145,6 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122567
 东南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226278/index.m3u8
 东南卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000310/index.m3u8
 东南卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
-海峡卫视,rtsp://183.252.176.54/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 海峡卫视,http://[2409:8087:3428:0020:0500::1008]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 厦门卫视,http://39.135.55.7:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 厦门卫视,http://[2409:8087:3428:0020:0500::1010]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -212,13 +211,13 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122567
 吉林卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226507/index.m3u8
 吉林卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000363/index.m3u8
 吉林卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8
-云南卫视,rtsp://183.252.176.54/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
-云南卫视,http://[2409:8087:3428:0020:0500::1009]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1
-云南卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1
-云南卫视,http://39.130.202.76:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+云南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226525/index.m3u8
+云南卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000367/index.m3u8
+云南卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000367/index.m3u8
 陕西卫视,http://121.51.94.53/livepull.sxiptv.cn/live/shanxiweishihd.m3u8
-青海卫视,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6147E69AU319DA04BK783D34A5I4A7F16AFP2BF4M340EEFAV0Z339C9W16A66428F29987E8&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000111
-青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
+青海卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226400/index.m3u8
+青海卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000366/index.m3u8
+青海卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000366/index.m3u8
 山西卫视,http://httpdvb.slave.shuliyun.com:13164/playurl?playtype=live&protocol=http&accesstoken=GC19726C7V21307D1T6B005F28JD9B307ABM7B62413DICAB7991BK98BDB0&programid=4200000166&playtoken=31607OTIOOLEXHT10
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8
 内蒙古卫视,http://[2409:8087:1020:301:2026::17]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/index.m3u8?fmt=ts2hls
