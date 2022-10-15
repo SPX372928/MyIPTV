@@ -214,7 +214,7 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122567
 云南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226525/index.m3u8
 云南卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000367/index.m3u8
 云南卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000367/index.m3u8
-陕西卫视,http://121.51.94.53/livepull.sxiptv.cn/live/shanxiweishihd.m3u8
+陕西卫视,http://alzbl.snrtv.com/live/sxtv.m3u8
 青海卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226400/index.m3u8
 青海卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000366/index.m3u8
 青海卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000366/index.m3u8
@@ -223,12 +223,12 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122567
 内蒙古卫视,http://[2409:8087:1020:301:2026::17]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/index.m3u8?fmt=ts2hls
 内蒙古卫视,http://live9.m2oplus.nmtv.cn/nmgws/playlist.m3u8
 内蒙古卫视,http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
-新疆卫视,http://122.228.119.170/livehyw5.chinamcache.com/hyw/zb01.m3u8
+新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 黑龙江卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226148/index.m3u8
 黑龙江卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8
 黑龙江卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-三沙卫视,http://pull2.ssws.tv/live/SswsTV20210803.m3u8
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 上海纪实人文,http://39.134.144.6:8089/PLTV/88888888/224/3221226499/index.m3u8
 上海纪实人文,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
 上海纪实人文,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000333/index.m3u8
