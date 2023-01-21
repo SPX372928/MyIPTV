@@ -1,0 +1,3 @@
+西藏卫视 4M1080,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
+西藏藏语 4M1080,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8
+西藏影视文化 4M1080,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
