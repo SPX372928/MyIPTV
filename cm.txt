@@ -110,7 +110,7 @@ CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/i
 CCTV风云足球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 CCTV风云足球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
 CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-CCTV风云音乐 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
 CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
 CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
@@ -239,7 +239,7 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122611
 黑龙江卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226148/index.m3u8
 黑龙江卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8
 黑龙江卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
-西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
+西藏卫视,https://tv.vtibet.cn/live/fvu63z5JqH7P3.m3u8
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 海洋频道,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
