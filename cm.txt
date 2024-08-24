@@ -1,4 +1,7 @@
 云端列表,#genre#,https://epg.erw.cc/api/diyp
+凤凰中文,https://ali.hlspull.yximgs.com/live/c4d4c8643c79fec43e6007e7eeeb005d.flv
+凤凰资讯,https://ali.hlspull.yximgs.com/live/d6b8617047e3ed17e0ea2b96c384bdd4.flv
+凤凰香港,https://ali.hlspull.yximgs.com/live/3e2771fcb74cab497d0b4e24093ee115.flv
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰中文,http://[2409:8087:3428:0020:0500::1015]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
@@ -70,6 +73,7 @@ CCTV14,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 CCTV15,http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
 CCTV15,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000346/index.m3u8
 CCTV15,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1312175710_-1555934560/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1674381427&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 CCTV17,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 CCTV17,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8
