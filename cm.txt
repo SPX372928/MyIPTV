@@ -1,3 +1,4 @@
+云端列表,#genre#,https://epg.erw.cc/api/diyp
 凤凰中文,https://ali.hlspull.yximgs.com/live/c4d4c8643c79fec43e6007e7eeeb005d.flv
 凤凰资讯,https://ali.hlspull.yximgs.com/live/d6b8617047e3ed17e0ea2b96c384bdd4.flv
 凤凰香港,https://ali.hlspull.yximgs.com/live/3e2771fcb74cab497d0b4e24093ee115.flv
