@@ -1,4 +1,5 @@
 云端列表,#genre#,https://epg.erw.cc/api/diyp
+凤凰资讯,https://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
 凤凰资讯,https://stream1.freetv.fun/a8150d95ef7cfb2f49dbbde2df2335f7bfd59ab4f3aeef08273b80aee5b137fe.m3u8
@@ -60,7 +61,12 @@ CCTV14,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 CCTV15,http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
 CCTV15,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000346/index.m3u8
 CCTV15,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV16,http://39.134.65.245/PLTV/88888888/224/3221225893/1.m3u8
+CCTV16,http://39.135.133.170/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV16,http://39.134.65.207/PLTV/88888888/224/3221225893/1.m3u8
+CCTV16,http://39.134.65.194/PLTV/88888888/224/3221225893/1.m3u8
+CCTV16,http://39.134.65.239/PLTV/88888888/224/3221225893/1.m3u8
+CCTV16,http://39.134.65.196/PLTV/88888888/224/3221225893/1.m3u8
 CCTV17,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 CCTV17,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8
 CCTV17,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
@@ -92,6 +98,7 @@ CGTN纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 山东农科,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
 山东少儿,http://39.134.144.6:8089/PLTV/88888888/224/3221226195/index.m3u8
 山东少儿,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000340/index.m3u8
+山东少儿,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00004003/index.m3u8
 山东少儿,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
 山东文旅,http://39.134.144.6:8089/PLTV/88888888/224/3221225802/index.m3u8
 山东文旅,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000337/index.m3u8
@@ -164,6 +171,7 @@ CGTN纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 贵州卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225777/index.m3u8
 贵州卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000329/index.m3u8
 贵州卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
+贵州卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00004000/index.m3u8
 辽宁卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225789/index.m3u8
 辽宁卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000326/index.m3u8
 辽宁卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
@@ -189,6 +197,7 @@ CGTN纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 海洋频道,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
 海洋频道,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000662/index.m3u8
+生态频道http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8
 北京纪实科教,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8
 北京纪实科教,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000332/index.m3u8
 上海纪实人文,http://39.134.144.6:8089/PLTV/88888888/224/3221226499/index.m3u8
@@ -215,6 +224,7 @@ CGTN纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
 CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 CHC影迷电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
+求索纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
 SiTV东方财经,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002025/index.m3u8
 SiTV东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 SiTV乐游,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00002016/index.m3u8
