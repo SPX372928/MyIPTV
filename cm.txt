@@ -1,4 +1,3 @@
-云端列表,#genre#,https://epg.erw.cc/api/diyp
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,https://smt.1678520.xyz/smt3.2.3.php?id=phoenixinfo_hd
